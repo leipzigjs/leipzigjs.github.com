@@ -1,4 +1,2 @@
-website
-=======
-
-le-js Website
+Website der Leipziger JavaScript User Group
+==
