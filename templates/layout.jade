@@ -7,20 +7,37 @@ html(lang='en')
         block title
           = locals.name
       link(rel='alternate', href=locals.url+'/feed.xml', type='application/rss+xml', title=locals.description)
-      link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Fredericka+the+Great')
-      link(rel='stylesheet', href='/css/github.css')
-      link(rel='stylesheet', href='/css/main.css')
+      link(rel='stylesheet', href='/css/bootstrap.css')
+      link(rel='stylesheet', href='/css/styles.css')
+      script(src='/js/jquery.js')
+      script(src='/js/bootstrap.js')
+      script(src='/js/app.js')
   body
-    header
-      div.inner
-        block header
-          h1
-            a(href=locals.url)= locals.name
-          p= locals.description
-    div#content
+    .navbar.navbar-fixed-top
+      .navbar-inner
+        .container
+          a.brand(href='/') Leipzig.js
+
+          .nav-collapse.collapse
+            ul.nav
+              li
+                a(href='#') News
+              li
+                a(href='#') Kontakt
+              li
+                a(href='#') Impressum
+            ul.nav.pull-right
+              li
+                a(rel='tooltip', target='_blank', href='http://www.github.com/leipzigjs', rel='tooltip', title='Unser Github Profil')
+                  | Github&nbsp;
+                  i.icon-share-alt
+
+    #content.container
       block content
-        h2 Welcome to zombocom!
-    footer
+
+    footer.container
+      hr
+
       div.inner
         block footer
           p &copy; #{ new Date().getFullYear() } #{ locals.owner }
