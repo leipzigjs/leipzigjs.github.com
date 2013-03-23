@@ -1,0 +1,13 @@
+extends layout
+
+block prepend title
+  | #{ page.title } -
+
+block header
+
+block content
+  article.page
+    section.content
+      h1
+        a(href=locals.url)= page.title
+      p!= page.html
