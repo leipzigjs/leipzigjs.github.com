@@ -10,5 +10,5 @@ Wer kommen will ist, herzlich eingeladen sich im [Doodle](http://doodle.com/4g4x
 
 Als Redner konnten wir [René Zschoch](http://twitter.com/prop79) und [Benjamin Knofe](http://twitter.com/videosynthesis)
 von den [Medienfreunden](http://medienfreunde.com) gewinnen. Sie werden über das Thema
-[MarionneteJS](http://marionettejs.com) in Verbindung mit [Ruby on Rails](http://rubyonrails.org/) sprechen und sicher
+[MarionetteJS](http://marionettejs.com) in Verbindung mit [Ruby on Rails](http://rubyonrails.org/) sprechen und sicher
 einige interessante Einblicke bezüglich der Implementierung gewähren.
