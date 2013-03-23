@@ -1,4 +1,7 @@
-create:
+build:
 	@wintersmith build -C src
 
-.PHONY: create
+server:
+	@wintersmith preview -C src
+
+.PHONY: build server

@@ -1,6 +1,6 @@
 title: LeipzigJS drittes Treffen
 author: Mario Behrendt
-date: 2013-03-14 11:01
+date: 2013-01-24 11:01
 template: article.jade
 
 Der Termin zum dritten Treffen der Leipziger Javascript-Usergroup steht fest! Am **Montag, dem 28.01. um 18:00 Uhr**.

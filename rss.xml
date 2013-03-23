@@ -5,8 +5,28 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description>Das Treffen zum Thema Javascript und Node.js in Leipzig</description>
-    <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
+    <pubDate>Sat, 23 Mar 2013 11:01:00 +0100</pubDate>
     <language>de</language>
+    <item>
+      <title>Wir laden zum vierten Treffen ein</title>
+      <link>http://localhost:8080/artikel/2013/03/23/wie-laden-zum-vierten-treffen-ein/</link>
+      <pubDate>Sat, 23 Mar 2013 11:01:00 +0100</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/artikel/2013/03/23/wie-laden-zum-vierten-treffen-ein/</guid>
+      <author></author>
+      <description>&lt;p&gt;Zum nunmehr vierten mal laden wir alle aus Leipzig und Umgebung (beim letzten Treffen hatten wir Besuch aus Halle :)) ein.
+Treffpunkt ist mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; die Hans-Poeche-Straße 23-25.
+
+&lt;/p&gt;
+&lt;p&gt;Wer kommen will ist, herzlich eingeladen sich im &lt;a href=&quot;http://doodle.com/4g4xvavpuctnzpd7&quot;&gt;Doodle&lt;/a&gt; zu verewigen, damit wir möglichst viele Leute zusammenbekommen.
+
+&lt;/p&gt;
+&lt;p&gt;Als Redner konnten wir &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin Knofe&lt;/a&gt;
+von den &lt;a href=&quot;http://medienfreunde.com&quot;&gt;Medienfreunden&lt;/a&gt; gewinnen. Sie werden über das Thema
+&lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionneteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; sprechen und sicher
+einige interessante Einblicke bezüglich der Implementierung gewähren.
+&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>LeipzigJS 3.0</title>
       <link>http://localhost:8080/artikel/2013/01/21/leipzigjs-3.0/</link>
@@ -26,7 +46,7 @@
     <item>
       <title>LeipzigJS drittes Treffen</title>
       <link>http://localhost:8080/artikel/2013/01/24/leipzigjs-drittes-treffen/</link>
-      <pubDate>Thu, 14 Mar 2013 11:01:00 +0100</pubDate>
+      <pubDate>Thu, 24 Jan 2013 11:01:00 +0100</pubDate>
       <guid isPermaLink="true">http://localhost:8080/artikel/2013/01/24/leipzigjs-drittes-treffen/</guid>
       <author></author>
       <description>&lt;p&gt;Der Termin zum dritten Treffen der Leipziger Javascript-Usergroup steht fest! Am &lt;strong&gt;Montag, dem 28.01. um 18:00 Uhr&lt;/strong&gt;.
