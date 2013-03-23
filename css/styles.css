@@ -1,0 +1,20 @@
+body {
+  margin-top: 85px;
+}
+
+#content article {
+  margin-bottom: 55px;
+}
+
+.author {
+  margin-bottom: 25px;
+}
+
+#archive-link, #disqus_thread {
+  margin-top: 40px;
+}
+
+#logo {
+  float: left;
+  padding: 8px 10px 0 0;
+}

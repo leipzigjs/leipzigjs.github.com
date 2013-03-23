@@ -1,0 +1,32 @@
+extends layout
+
+block content
+  include author
+  - var posts = [];
+  - _.each(contents.artikel._.directories, function(year) {
+  -   _.each(year._.directories, function(month) {
+  -     _.each(month._.directories, function(day) {
+  -       _.each(day._.directories, function(post) {
+  -         posts.push(post.index)
+  -       })
+  -     });
+  -   });
+  - });
+  - var articles = _.chain(posts).compact().sortBy(function(item) {
+  -   // compact removes any directories w/o an index
+  -   // sort them by date
+  -   return -item.date
+  - }).first(3).value() // and finally take the first 5
+  each article in articles
+    article.post
+      header
+        h2
+          a(href=article.url)= article.title
+        p
+          mixin author(article.metadata.author)
+      section.content!= article.intro
+      if article.hasMore
+        p.read-more
+          a(href=article.url) read more
+  #archive-link
+    a#archive.btn.btn-small(href='archive.html') Zum Archiv

@@ -1,0 +1,48 @@
+!!! 5
+html(lang='en')
+  head
+    block head
+      meta(charset='utf-8')
+      title
+        block title
+          = locals.name
+      link(rel='alternate', href=locals.url+'/feed.xml', type='application/rss+xml', title=locals.description)
+      link(rel='stylesheet', href='/css/bootstrap.css')
+      link(rel='stylesheet', href='/css/styles.css')
+      script(src='/js/jquery.js')
+      script(src='/js/bootstrap.js')
+      script(src='/js/app.js')
+  body
+    .navbar.navbar-fixed-top
+      .navbar-inner
+        #header.container
+          #logo
+            img(src='/img/logo.png')
+
+          a.brand(href='/') Leipzig.js
+
+          .nav-collapse.collapse
+            ul.nav
+              li
+                a(href='mailto:leipzigjs@googlegroups.com') Kontakt
+              li
+                a(href='/impressum') Impressum
+            ul.nav.pull-right
+              li
+                a(rel='tooltip', target='_blank', href='http://www.github.com/leipzigjs', rel='tooltip', title='Unser Github Profil')
+                  | Github&nbsp;
+                  i.icon-share-alt
+              li
+                a(rel='tooltip', target='_blank', href='http://www.twitter.com/leipzigjs', rel='tooltip', title='Unser Twitter Feed')
+                  | Twitter&nbsp;
+                  i.icon-share-alt
+
+    #content.container
+      block content
+
+    footer.container
+      hr
+
+      div.inner
+        block footer
+          h6 &copy; #{ new Date().getFullYear() } #{ locals.owner }

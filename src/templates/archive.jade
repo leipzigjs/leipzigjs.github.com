@@ -1,0 +1,36 @@
+
+extends layout
+
+block content
+  != page.html
+  - var articles = [];
+  - _.each(contents.artikel._.directories, function(year) {
+  -   _.each(year._.directories, function(month) {
+  -     _.each(month._.directories, function(day) {
+  -       _.each(day._.directories, function(post) {
+  -         articles.push(post.index)
+  -       })
+  -     });
+  -   });
+  - });
+  - var archive = _.chain(articles).compact().sortBy(function(item) {
+  -   return -item.date
+  - }).groupBy(function(item) {
+  -   return item.date.getFullYear()
+  - }).value()
+  - var map = ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember']
+
+  section.archive
+    ul
+      each year in _.chain(archive).keys().reverse().value()
+        li.year= year
+        - var months = _.groupBy(archive[year], function(item) { return map[item.date.getMonth()] })
+        ul
+          each articles, month in months
+            li
+              strong= month
+              ul
+                each article in articles
+                  li
+                    a(href=article.url)= article.title
+

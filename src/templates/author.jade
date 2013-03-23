@@ -1,0 +1,9 @@
+mixin author(authorName)
+  - var author = contents.autoren[authorName + '.json']
+  h5.author
+    if author
+      | Geschrieben von:&nbsp;
+      a(href='mailto:'+author.metadata.email)= author.metadata.name
+    else
+      | Geschrieben von:&nbsp;
+      =authorName
