@@ -45,4 +45,12 @@ html(lang='en')
 
       div.inner
         block footer
-          h6 &copy; #{ new Date().getFullYear() } #{ locals.owner }
+          .pull-left
+            h6 &copy; #{ new Date().getFullYear() } #{ locals.owner }
+          .pull-right
+            .row-fluid
+              .span6
+                h6 Sponsor:
+              .span6
+                a(href='http://www.food.de', target='_blank')
+                  img(src='/img/food_de.png')
