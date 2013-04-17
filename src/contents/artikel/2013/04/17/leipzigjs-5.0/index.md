@@ -7,7 +7,7 @@ Wir laden euch zum fünften Treffen der Usergroup ein.  Treffpunkt ist einmal
 mehr mit freundlicher Unterstützung von [Food.de](http://www.food.de) die 
 Hans-Poeche-Straße 23-25.
 
-Wer kommen will ist, herzlich eingeladen sich im
+Wer kommen will, ist herzlich eingeladen sich im
 [Doodle](http://doodle.com/nmyctynptacq92fn) zu verewigen.
 
 In Anschluss an den spannenden Vortrag von [René Zschoch](http://twitter.com/prop79) 
