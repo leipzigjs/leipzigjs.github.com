@@ -79,26 +79,6 @@
 </description>
     </item>
     <item>
-      <title>Termin für viertes Treffen steht fest</title>
-      <link>http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</link>
-      <pubDate>Wed, 27 Mar 2013 14:25:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</guid>
-      <author></author>
-      <description>&lt;p&gt;Am &lt;strong&gt;Montag dem 8. April 2013 um 19:00 Uhr&lt;/strong&gt; finden wir uns wieder im Büro von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; zusammen.
-
-&lt;/p&gt;
-&lt;p&gt;Wie bereits angekündigt werden &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin
-Knofe&lt;/a&gt; zum Thema &lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on
-Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
-&lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone&lt;/a&gt; und Frontend-JS-Apps natürlich bei allen gerade heiß gehandelt werden.
-
-&lt;/p&gt;
-&lt;p&gt;Wer dabei sein will, kann gerne vorbeischauen! Die bisherige Rekord von 10 Teilnehmern sollte langsam aber sicher fallen
-:)
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Wir laden zum vierten Treffen ein</title>
       <link>http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</link>
       <pubDate>Sat, 23 Mar 2013 11:01:00 +0100</pubDate>
@@ -119,28 +99,22 @@ einige interessante Einblicke bezüglich der Implementierung gewähren.
 </description>
     </item>
     <item>
-      <title>Wir laden zum fünften Treffen ein</title>
-      <link>http://leipzigjs.github.io/artikel/2013/04/17/leipzigjs-5.0/</link>
-      <pubDate>Wed, 17 Apr 2013 10:10:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/17/leipzigjs-5.0/</guid>
+      <title>Termin für viertes Treffen steht fest</title>
+      <link>http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</link>
+      <pubDate>Wed, 27 Mar 2013 14:25:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</guid>
       <author></author>
-      <description>&lt;p&gt;Wir laden euch zum fünften Treffen der Usergroup ein.  Treffpunkt ist einmal
-mehr mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; die 
-Hans-Poeche-Straße 23-25.
+      <description>&lt;p&gt;Am &lt;strong&gt;Montag dem 8. April 2013 um 19:00 Uhr&lt;/strong&gt; finden wir uns wieder im Büro von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; zusammen.
 
 &lt;/p&gt;
-&lt;p&gt;Wer kommen will, ist herzlich eingeladen sich im
-&lt;a href=&quot;http://doodle.com/nmyctynptacq92fn&quot;&gt;Doodle&lt;/a&gt; zu verewigen.
+&lt;p&gt;Wie bereits angekündigt werden &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin
+Knofe&lt;/a&gt; zum Thema &lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on
+Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
+&lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone&lt;/a&gt; und Frontend-JS-Apps natürlich bei allen gerade heiß gehandelt werden.
 
 &lt;/p&gt;
-&lt;p&gt;In Anschluss an den spannenden Vortrag von &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; 
-über &lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt; stellt &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan
-Hoyer&lt;/a&gt; diesmal AngularJS
-vor. Danach wird es wie immer eine auführliche Diskussion zu JS und
-nicht-JS-Themen geben.
-
-&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine rege Teilnahme.
+&lt;p&gt;Wer dabei sein will, kann gerne vorbeischauen! Die bisherige Rekord von 10 Teilnehmern sollte langsam aber sicher fallen
+:)
 &lt;/p&gt;
 </description>
     </item>
@@ -169,6 +143,56 @@ nicht-JS-Themen geben.
 
 &lt;/p&gt;
 &lt;p&gt;Mich überzeugen vor allem die stetige, zuverlässige Weiterentwicklung sowie die sinnvollen &lt;a href=&quot;http://lostechies.com/derickbailey/category/marionette&quot;&gt;Konzepte und Hintergründe&lt;/a&gt; von Marionette.js. Andere Frameworks wie Angular.js bleiben natürlich trotzdem interessant und sind glücklicherweise auch das geplante Thema unseres nächsten Treffens.
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Wir laden zum fünften Treffen ein</title>
+      <link>http://leipzigjs.github.io/artikel/2013/04/17/leipzigjs-5.0/</link>
+      <pubDate>Wed, 17 Apr 2013 10:10:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/17/leipzigjs-5.0/</guid>
+      <author></author>
+      <description>&lt;p&gt;Wir laden euch zum fünften Treffen der Usergroup ein.  Treffpunkt ist einmal
+mehr mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; die 
+Hans-Poeche-Straße 23-25.
+
+&lt;/p&gt;
+&lt;p&gt;Wer kommen will, ist herzlich eingeladen sich im
+&lt;a href=&quot;http://doodle.com/nmyctynptacq92fn&quot;&gt;Doodle&lt;/a&gt; zu verewigen.
+
+&lt;/p&gt;
+&lt;p&gt;In Anschluss an den spannenden Vortrag von &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; 
+über &lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt; stellt &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan
+Hoyer&lt;/a&gt; diesmal AngularJS
+vor. Danach wird es wie immer eine ausführliche Diskussion zu JS und
+nicht-JS-Themen geben.
+
+&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine rege Teilnahme.
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Das fünfte Treffen steht bevor</title>
+      <link>http://leipzigjs.github.io/artikel/2013/04/25/das-fuenfte-treffen-steht-bevor/</link>
+      <pubDate>Thu, 25 Apr 2013 11:11:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/25/das-fuenfte-treffen-steht-bevor/</guid>
+      <author></author>
+      <description>&lt;p&gt;Der nächste Termin für unser monatliches Javascript Usergroup-Treffen steht
+fest:
+
+&lt;/p&gt;
+&lt;p&gt;Am &lt;strong&gt;13. Mai um 19:00 Uhr&lt;/strong&gt;, wie immer im Büro von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt;
+in der Hans-Poeche-Straße 23, Eingang direkt rechts vom Lucky Bike-Eingang.
+
+&lt;/p&gt;
+&lt;p&gt;Thema wird ein Talk von &lt;a href=&quot;http://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt; sein,
+der nach dem &lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt;-Talk vom letzten Treffen
+die Vorzüge von &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular&lt;/a&gt; beim entwickeln einer ähnlichen
+Applikation aufzeigen will.
+
+&lt;/p&gt;
+&lt;p&gt;Zu finden ist das Event außerdem auch bei &lt;a href=&quot;http://lanyrd.com/2013/javascript-usergroup-leipzig-treffen-mai/&quot;&gt;Lanyrd&lt;/a&gt;.
 &lt;/p&gt;
 </description>
     </item>

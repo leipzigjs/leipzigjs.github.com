@@ -13,7 +13,7 @@ Wer kommen will, ist herzlich eingeladen sich im
 In Anschluss an den spannenden Vortrag von [René Zschoch](http://twitter.com/prop79) 
 über [MarionetteJS](http://marionettejs.com) stellt [Stephan
 Hoyer](https://github.com/StephanHoyer) diesmal AngularJS
-vor. Danach wird es wie immer eine auführliche Diskussion zu JS und
+vor. Danach wird es wie immer eine ausführliche Diskussion zu JS und
 nicht-JS-Themen geben.
 
 Wir freuen uns auf eine rege Teilnahme.
