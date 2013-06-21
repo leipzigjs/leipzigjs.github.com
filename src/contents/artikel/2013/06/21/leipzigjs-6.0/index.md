@@ -12,7 +12,7 @@ Gründen auf 20:00 Uhr festgesetzt. Wer will kann für ein kleines Vorgeplänkel
 gerne schon 19:00 Uhr kommen.
 
 Eigenlich war eine vortragslose Disskusion zum Thema Debugging und ein
-Editor-War geplant. Nun hat [@behrendio](https://twitter.com/behrendtio) angeboten, die Reihe der
+Editor-War geplant. Nun hat [@behrendtio](https://twitter.com/behrendtio) angeboten, die Reihe der
 Front-End-MV*-Frameworks fortzusetzen, indem er die gleiche Applikation
 nochmals in [Ember.js](http://emberjs.com/) entwickelt. Er wird das Ergebnis
 vorstellen und seine Erfahrungen mit uns teilen.

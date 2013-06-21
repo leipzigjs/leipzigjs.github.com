@@ -5,47 +5,8 @@
     <atom:link href="http://leipzigjs.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://leipzigjs.github.io</link>
     <description>Das Treffen zum Thema Javascript und Node.js in Leipzig</description>
-    <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
+    <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
     <language>de</language>
-    <item>
-      <title>LeipzigJS 2.0 - Testing Javascript</title>
-      <link>http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</link>
-      <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</guid>
-      <author></author>
-      <description>&lt;p&gt;Nach dem sich ca. 10 Entwickler beim ersten Treffen im sublab eingefunden und angeregt diskutiert haben, wollen wir das ganze natürlich fortsetzen. Als regelmäßiger Termin ist jetzt immer der letzte Freitag jeden Monats für LeipzigJS reserviert.
-
-&lt;/p&gt;
-&lt;p&gt;Das zweite Treffen findet am &lt;strong&gt;30. November 2012&lt;/strong&gt; in der &lt;a href=&quot;http://www.villa-leipzig.de&quot;&gt;Villa&lt;/a&gt; statt.
-
-&lt;/p&gt;
-&lt;p&gt;Wir wollen uns dem Thema &lt;strong&gt;Javascript testen&lt;/strong&gt; befassen. Dazu haben wir gleich zwei Vorträge geplant
-
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Node.js testen mit &lt;a href=&quot;http://visionmedia.github.com/mocha&quot;&gt;Mocha&lt;/a&gt; - &lt;a href=&quot;https://github.com/MarioBehrendt&quot;&gt;Mario Behrendt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Frontend testen mit &lt;a href=&quot;https://github.com/airportyh/testem&quot;&gt;Test&apos;em&lt;/a&gt; - &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Wir freuen uns auf euer Kommen.
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Es wird Zeit</title>
-      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
-      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
-      <author></author>
-      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.
-
-&lt;/p&gt;
-&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.
-
-&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.
-&lt;/p&gt;
-</description>
-    </item>
     <item>
       <title>LeipzigJS 3.0</title>
       <link>http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</link>
@@ -79,32 +40,22 @@
 </description>
     </item>
     <item>
-      <title>Wir laden zum sechsten Treffen ein</title>
-      <link>http://leipzigjs.github.io/artikel/2013/06/21/leipzigjs-6.0/</link>
-      <pubDate>Fri, 21 Jun 2013 09:10:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/06/21/leipzigjs-6.0/</guid>
+      <title>Wir laden zum vierten Treffen ein</title>
+      <link>http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</link>
+      <pubDate>Sat, 23 Mar 2013 11:01:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</guid>
       <author></author>
-      <description>&lt;p&gt;Wir laden euch zum sechsten Treffen der Usergroup ein.  Treffpunkt ist wieder
-mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; die 
-Hans-Poeche-Straße 23-25.
+      <description>&lt;p&gt;Zum nunmehr vierten mal laden wir alle aus Leipzig und Umgebung (beim letzten Treffen hatten wir Besuch aus Halle :)) ein.
+Treffpunkt ist mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; die Hans-Poeche-Straße 23-25.
 
 &lt;/p&gt;
-&lt;p&gt;Der Termin wurde per Doodle auf den 22. Juli terminiert. Zeit ist diesmal aus
-Gründen auf 20:00 Uhr festgesetzt. Wer will kann für ein kleines Vorgeplänkel
-gerne schon 19:00 Uhr kommen.
+&lt;p&gt;Wer kommen will ist, herzlich eingeladen sich im &lt;a href=&quot;http://doodle.com/4g4xvavpuctnzpd7&quot;&gt;Doodle&lt;/a&gt; zu verewigen, damit wir möglichst viele Leute zusammenbekommen.
 
 &lt;/p&gt;
-&lt;p&gt;Eigenlich war eine vortragslose Disskusion zum Thema Debugging und ein
-Editor-War geplant. Nun hat &lt;a href=&quot;https://twitter.com/behrendtio&quot;&gt;@behrendio&lt;/a&gt; angeboten, die Reihe der
-Front-End-MV*-Frameworks fortzusetzen, indem er die gleiche Applikation
-nochmals in &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt; entwickelt. Er wird das Ergebnis
-vorstellen und seine Erfahrungen mit uns teilen.
-
-&lt;/p&gt;
-&lt;p&gt;Die anderen Punkte können jedoch dennoch danach weiter erörtert werden.
-
-&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine rege Teilnahme.
+&lt;p&gt;Als Redner konnten wir &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin Knofe&lt;/a&gt;
+von den &lt;a href=&quot;http://medienfreunde.com&quot;&gt;Medienfreunden&lt;/a&gt; gewinnen. Sie werden über das Thema
+&lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; sprechen und sicher
+einige interessante Einblicke bezüglich der Implementierung gewähren.
 &lt;/p&gt;
 </description>
     </item>
@@ -129,22 +80,32 @@ Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
 </description>
     </item>
     <item>
-      <title>Wir laden zum vierten Treffen ein</title>
-      <link>http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</link>
-      <pubDate>Sat, 23 Mar 2013 11:01:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</guid>
+      <title>Wir laden zum sechsten Treffen ein</title>
+      <link>http://leipzigjs.github.io/artikel/2013/06/21/leipzigjs-6.0/</link>
+      <pubDate>Fri, 21 Jun 2013 09:10:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/06/21/leipzigjs-6.0/</guid>
       <author></author>
-      <description>&lt;p&gt;Zum nunmehr vierten mal laden wir alle aus Leipzig und Umgebung (beim letzten Treffen hatten wir Besuch aus Halle :)) ein.
-Treffpunkt ist mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; die Hans-Poeche-Straße 23-25.
+      <description>&lt;p&gt;Wir laden euch zum sechsten Treffen der Usergroup ein.  Treffpunkt ist wieder
+mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; die 
+Hans-Poeche-Straße 23-25.
 
 &lt;/p&gt;
-&lt;p&gt;Wer kommen will ist, herzlich eingeladen sich im &lt;a href=&quot;http://doodle.com/4g4xvavpuctnzpd7&quot;&gt;Doodle&lt;/a&gt; zu verewigen, damit wir möglichst viele Leute zusammenbekommen.
+&lt;p&gt;Der Termin wurde per Doodle auf den 22. Juli terminiert. Zeit ist diesmal aus
+Gründen auf 20:00 Uhr festgesetzt. Wer will kann für ein kleines Vorgeplänkel
+gerne schon 19:00 Uhr kommen.
 
 &lt;/p&gt;
-&lt;p&gt;Als Redner konnten wir &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin Knofe&lt;/a&gt;
-von den &lt;a href=&quot;http://medienfreunde.com&quot;&gt;Medienfreunden&lt;/a&gt; gewinnen. Sie werden über das Thema
-&lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; sprechen und sicher
-einige interessante Einblicke bezüglich der Implementierung gewähren.
+&lt;p&gt;Eigenlich war eine vortragslose Disskusion zum Thema Debugging und ein
+Editor-War geplant. Nun hat &lt;a href=&quot;https://twitter.com/behrendtio&quot;&gt;@behrendtio&lt;/a&gt; angeboten, die Reihe der
+Front-End-MV*-Frameworks fortzusetzen, indem er die gleiche Applikation
+nochmals in &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt; entwickelt. Er wird das Ergebnis
+vorstellen und seine Erfahrungen mit uns teilen.
+
+&lt;/p&gt;
+&lt;p&gt;Die anderen Punkte können jedoch dennoch danach weiter erörtert werden.
+
+&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine rege Teilnahme.
 &lt;/p&gt;
 </description>
     </item>
@@ -223,6 +184,45 @@ Applikation aufzeigen will.
 
 &lt;/p&gt;
 &lt;p&gt;Mich überzeugen vor allem die stetige, zuverlässige Weiterentwicklung sowie die sinnvollen &lt;a href=&quot;http://lostechies.com/derickbailey/category/marionette&quot;&gt;Konzepte und Hintergründe&lt;/a&gt; von Marionette.js. Andere Frameworks wie Angular.js bleiben natürlich trotzdem interessant und sind glücklicherweise auch das geplante Thema unseres nächsten Treffens.
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Es wird Zeit</title>
+      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
+      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
+      <author></author>
+      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.
+
+&lt;/p&gt;
+&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.
+
+&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>LeipzigJS 2.0 - Testing Javascript</title>
+      <link>http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</link>
+      <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</guid>
+      <author></author>
+      <description>&lt;p&gt;Nach dem sich ca. 10 Entwickler beim ersten Treffen im sublab eingefunden und angeregt diskutiert haben, wollen wir das ganze natürlich fortsetzen. Als regelmäßiger Termin ist jetzt immer der letzte Freitag jeden Monats für LeipzigJS reserviert.
+
+&lt;/p&gt;
+&lt;p&gt;Das zweite Treffen findet am &lt;strong&gt;30. November 2012&lt;/strong&gt; in der &lt;a href=&quot;http://www.villa-leipzig.de&quot;&gt;Villa&lt;/a&gt; statt.
+
+&lt;/p&gt;
+&lt;p&gt;Wir wollen uns dem Thema &lt;strong&gt;Javascript testen&lt;/strong&gt; befassen. Dazu haben wir gleich zwei Vorträge geplant
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Node.js testen mit &lt;a href=&quot;http://visionmedia.github.com/mocha&quot;&gt;Mocha&lt;/a&gt; - &lt;a href=&quot;https://github.com/MarioBehrendt&quot;&gt;Mario Behrendt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Frontend testen mit &lt;a href=&quot;https://github.com/airportyh/testem&quot;&gt;Test&apos;em&lt;/a&gt; - &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wir freuen uns auf euer Kommen.
 &lt;/p&gt;
 </description>
     </item>
