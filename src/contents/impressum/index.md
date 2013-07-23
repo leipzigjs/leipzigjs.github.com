@@ -10,8 +10,8 @@ E-Mail: leipzigjs@googlegroups.com
 _Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:_
 
 **Mario Behrendt**<br/>
-Topasstr. 85<br/>
-04319 Leipzig
+Erich-Zeigner-Allee 16<br/>
+04229 Leipzig
 
 ### Haftung für Inhalte
 
