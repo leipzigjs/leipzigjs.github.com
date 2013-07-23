@@ -6,7 +6,7 @@ Erreichbar unter [http://leipzigjs.github.io](http://leipzigjs.github.io)
 
 * [node.js](http://nodejs.org/) installieren
 * `git clone https://github.com/leipzigjs/leipzigjs.github.com.git leipzigjs && cd leipzigjs`
-* `npm i wintersmith -g` um [Wintersmith](https://github.com/jnordberg/wintersmith) global zu installieren
+* `npm i wintersmith@1.2.4 -g` um [Wintersmith](https://github.com/jnordberg/wintersmith) global zu installieren
 * Ggf. Shell neustarten, damit das Wintersmith-Binary verfügbar ist: `exec $SHELL -l`
 * `make server` um den Dev-Server zu starten
 * Aufruf unter `localhost:8080`
