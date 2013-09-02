@@ -5,44 +5,45 @@
     <atom:link href="http://leipzigjs.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://leipzigjs.github.io</link>
     <description>Das Treffen zum Thema Javascript und Node.js in Leipzig</description>
-    <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
+    <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
     <language>de</language>
-    <item>
-      <title>Es wird Zeit</title>
-      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
-      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
-      <author></author>
-      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.&lt;/p&gt;
-&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.&lt;/p&gt;
-</description>
-    </item>
     <item>
       <title>LeipzigJS 2.0 - Testing Javascript</title>
       <link>http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</link>
       <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
       <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</guid>
       <author></author>
-      <description>&lt;p&gt;Nach dem sich ca. 10 Entwickler beim ersten Treffen im sublab eingefunden und angeregt diskutiert haben, wollen wir das ganze natürlich fortsetzen. Als regelmäßiger Termin ist jetzt immer der letzte Freitag jeden Monats für LeipzigJS reserviert.&lt;/p&gt;
-&lt;p&gt;Das zweite Treffen findet am &lt;strong&gt;30. November 2012&lt;/strong&gt; in der &lt;a href=&quot;http://www.villa-leipzig.de/&quot;&gt;Villa&lt;/a&gt; statt.&lt;/p&gt;
-&lt;p&gt;Wir wollen uns dem Thema &lt;strong&gt;Javascript testen&lt;/strong&gt; befassen. Dazu haben wir gleich zwei Vorträge geplant&lt;/p&gt;
+      <description>&lt;p&gt;Nach dem sich ca. 10 Entwickler beim ersten Treffen im sublab eingefunden und angeregt diskutiert haben, wollen wir das ganze natürlich fortsetzen. Als regelmäßiger Termin ist jetzt immer der letzte Freitag jeden Monats für LeipzigJS reserviert.
+
+&lt;/p&gt;
+&lt;p&gt;Das zweite Treffen findet am &lt;strong&gt;30. November 2012&lt;/strong&gt; in der &lt;a href=&quot;http://www.villa-leipzig.de&quot;&gt;Villa&lt;/a&gt; statt.
+
+&lt;/p&gt;
+&lt;p&gt;Wir wollen uns dem Thema &lt;strong&gt;Javascript testen&lt;/strong&gt; befassen. Dazu haben wir gleich zwei Vorträge geplant
+
+&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Node.js testen mit &lt;a href=&quot;http://visionmedia.github.com/mocha&quot;&gt;Mocha&lt;/a&gt; - &lt;a href=&quot;https://github.com/MarioBehrendt&quot;&gt;Mario Behrendt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Frontend testen mit &lt;a href=&quot;https://github.com/airportyh/testem&quot;&gt;Test&amp;#39;em&lt;/a&gt; - &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Frontend testen mit &lt;a href=&quot;https://github.com/airportyh/testem&quot;&gt;Test&apos;em&lt;/a&gt; - &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Wir freuen uns auf euer Kommen.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf euer Kommen.
+&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>LeipzigJS 3.0</title>
-      <link>http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</link>
-      <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</guid>
+      <title>Es wird Zeit</title>
+      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
+      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
       <author></author>
-      <description>&lt;p&gt;Beim letzten Treffen der Usergroup kamen leider nur die Hälfte der Teilnehmer des vorherigen Treffens, was sicherlich auch dem Zeitpunkt geschuldet war.&lt;/p&gt;
-&lt;p&gt;Deshalb möchten wir diesmal wieder über Doodle einen Termin finden, der für alle passend ist. Als trage dich bitte schnellst möglich ein: &lt;a href=&quot;http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/href=%22http://doodle.com/nci22t2b72gbxum8&quot;&gt;Zum Doodle&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eure Teilnahme.&lt;/p&gt;
+      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.
+
+&lt;/p&gt;
+&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.
+
+&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.
+&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -51,9 +52,30 @@
       <pubDate>Thu, 24 Jan 2013 11:01:00 +0100</pubDate>
       <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</guid>
       <author></author>
-      <description>&lt;p&gt;Der Termin zum dritten Treffen der Leipziger Javascript-Usergroup steht fest! Am &lt;strong&gt;Montag, dem 28.01. um 18:00 Uhr&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Treffpunkt ist diesmal das Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; (direkt neben Lucky Bike). Vielen Dank schon einmal an Food.de!&lt;/p&gt;
-&lt;p&gt;Themen werden unter anderen die Webseite der Usergroup, sowie vrsl. &lt;a href=&quot;http://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; und &lt;a href=&quot;http://socket.io/&quot;&gt;Socket.io&lt;/a&gt; sein.&lt;/p&gt;
+      <description>&lt;p&gt;Der Termin zum dritten Treffen der Leipziger Javascript-Usergroup steht fest! Am &lt;strong&gt;Montag, dem 28.01. um 18:00 Uhr&lt;/strong&gt;.
+
+&lt;/p&gt;
+&lt;p&gt;Treffpunkt ist diesmal das Büro von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; (direkt neben Lucky Bike). Vielen Dank schon einmal an Food.de!
+
+&lt;/p&gt;
+&lt;p&gt;Themen werden unter anderen die Webseite der Usergroup, sowie vrsl. &lt;a href=&quot;http://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; und &lt;a href=&quot;http://socket.io/&quot;&gt;Socket.io&lt;/a&gt; sein.
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>LeipzigJS 3.0</title>
+      <link>http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</link>
+      <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</guid>
+      <author></author>
+      <description>&lt;p&gt;Beim letzten Treffen der Usergroup kamen leider nur die Hälfte der Teilnehmer des vorherigen Treffens, was sicherlich auch dem Zeitpunkt geschuldet war.
+
+&lt;/p&gt;
+&lt;p&gt;Deshalb möchten wir diesmal wieder über Doodle einen Termin finden, der für alle passend ist. Als trage dich bitte schnellst möglich ein: &lt;a href=&quot;http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/href=%22http://doodle.com/nci22t2b72gbxum8&quot;&gt;Zum Doodle&lt;/a&gt;.
+
+&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eure Teilnahme.
+&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -63,12 +85,17 @@
       <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</guid>
       <author></author>
       <description>&lt;p&gt;Zum nunmehr vierten mal laden wir alle aus Leipzig und Umgebung (beim letzten Treffen hatten wir Besuch aus Halle :)) ein.
-Treffpunkt ist mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; die Hans-Poeche-Straße 23-25.&lt;/p&gt;
-&lt;p&gt;Wer kommen will ist, herzlich eingeladen sich im &lt;a href=&quot;http://doodle.com/4g4xvavpuctnzpd7&quot;&gt;Doodle&lt;/a&gt; zu verewigen, damit wir möglichst viele Leute zusammenbekommen.&lt;/p&gt;
+Treffpunkt ist mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; die Hans-Poeche-Straße 23-25.
+
+&lt;/p&gt;
+&lt;p&gt;Wer kommen will ist, herzlich eingeladen sich im &lt;a href=&quot;http://doodle.com/4g4xvavpuctnzpd7&quot;&gt;Doodle&lt;/a&gt; zu verewigen, damit wir möglichst viele Leute zusammenbekommen.
+
+&lt;/p&gt;
 &lt;p&gt;Als Redner konnten wir &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin Knofe&lt;/a&gt;
-von den &lt;a href=&quot;http://medienfreunde.com/&quot;&gt;Medienfreunden&lt;/a&gt; gewinnen. Sie werden über das Thema
-&lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; sprechen und sicher
-einige interessante Einblicke bezüglich der Implementierung gewähren.&lt;/p&gt;
+von den &lt;a href=&quot;http://medienfreunde.com&quot;&gt;Medienfreunden&lt;/a&gt; gewinnen. Sie werden über das Thema
+&lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; sprechen und sicher
+einige interessante Einblicke bezüglich der Implementierung gewähren.
+&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -77,13 +104,18 @@ einige interessante Einblicke bezüglich der Implementierung gewähren.&lt;/p&gt
       <pubDate>Wed, 27 Mar 2013 14:25:00 +0100</pubDate>
       <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</guid>
       <author></author>
-      <description>&lt;p&gt;Am &lt;strong&gt;Montag dem 8. April 2013 um 19:00 Uhr&lt;/strong&gt; finden wir uns wieder im Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; zusammen.&lt;/p&gt;
+      <description>&lt;p&gt;Am &lt;strong&gt;Montag dem 8. April 2013 um 19:00 Uhr&lt;/strong&gt; finden wir uns wieder im Büro von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; zusammen.
+
+&lt;/p&gt;
 &lt;p&gt;Wie bereits angekündigt werden &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin
-Knofe&lt;/a&gt; zum Thema &lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on
+Knofe&lt;/a&gt; zum Thema &lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on
 Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
-&lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone&lt;/a&gt; und Frontend-JS-Apps natürlich bei allen gerade heiß gehandelt werden.&lt;/p&gt;
+&lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone&lt;/a&gt; und Frontend-JS-Apps natürlich bei allen gerade heiß gehandelt werden.
+
+&lt;/p&gt;
 &lt;p&gt;Wer dabei sein will, kann gerne vorbeischauen! Die bisherige Rekord von 10 Teilnehmern sollte langsam aber sicher fallen
-:)&lt;/p&gt;
+:)
+&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -92,13 +124,26 @@ Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
       <pubDate>Fri, 12 Apr 2013 17:00:00 +0200</pubDate>
       <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/12/eine-kleine-zusammenfassung-zur-vorstellung-von-marionettejs/</guid>
       <author></author>
-      <description>&lt;p&gt;Beim letzten Treffen haben wir wieder ausführlich die Umsetzung von Webanwendungen mit JavaScript diskutiert. Während es die letzten Male vor allem um die Backend-Umsetzung mit Node.js ging, lag diesmal der Schwerpunkt auf der Umsetzung im Frontend. Wie kontrovers das Thema ist, hat sich für mich erst heute wieder beim Lesen eines &lt;a href=&quot;http://www.localytics.com/blog/2013/angularjs-at-localytics&quot;&gt;Blog-Artikels von Localytics&lt;/a&gt; bestätigt.&lt;/p&gt;
-&lt;p&gt;In diesem Artikel werden die Hauptprobleme komplexerer &lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone.js&lt;/a&gt;-Anwendungen beschrieben. Dabei haben sich die Entwickler zu Beginn leider nicht mit der &lt;a href=&quot;http://backbonejs.org/#FAQ-why-backbone&quot;&gt;Philosophie von Backbone.js&lt;/a&gt; und den daraus resultierenden Anforderungen an den Entwickler befasst. Denn im Vergleich zu JavaScript-Frameworks wie &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular.js&lt;/a&gt; oder &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt; gibt Backbone.js kaum Konventionen für die Entwicklung vor und überlässt aus Gründen der Flexibilität wichtige Entscheidungen zur Anwendungsarchitektur dem Entwickler.&lt;/p&gt;
-&lt;p&gt;Hier setzt die Backbone.js-Erweiterung &lt;a href=&quot;http://marionettejs.com/&quot;&gt;Marionette.js&lt;/a&gt; an. Im Zusammenspiel mit Backbone.js bleibt zwar die Flexibilität erhalten, typische Probleme umfangreicherer Anwendungen werden aber schon im Ansatz vermieden.&lt;/p&gt;
-&lt;p&gt;Mit Marionette.js erhält Backbone.js unter anderem Module, die den visuellen Aufbau einer Anwendung durch Regions und Layouts vereinfachen sowie weitere Module zur Ausgabe von Backbone.js-Models und Collections. Das ist aber nur eine kleine Auswahl aus einer ganzen Reihe nützlicher &lt;a href=&quot;https://github.com/marionettejs/backbone.marionette#documentation&quot;&gt;Bestandteile von Marionette.js&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;In meinem &lt;a href=&quot;http://renezschoch.de/talks/marionettejs-perfectprops&quot;&gt;Vortrag habe ich an einem realen Projekt meinen Einsatz von Marionette.js beschrieben&lt;/a&gt; und bin froh, zu Beginn die zusätzliche Zeit für den Einstieg investiert zu haben. Ohne die Unterstützung hätte ich bei meinem ersten Backbone.js-Projekt vermutlich einige Fehlentscheidungen getroffen, die ich im späteren Verlauf des Projekts nur sehr aufwändig hätte beheben können.&lt;/p&gt;
-&lt;p&gt;Für komplexere Backbone.js-Anwendungen kann ich deshalb nur jedem Entwickler die Verwendung eines Frameworks empfehlen. Neben Marionette.js sind das vor allem &lt;a href=&quot;http://chaplinjs.org/&quot;&gt;Chaplin.js&lt;/a&gt; und &lt;a href=&quot;http://thoraxjs.org/&quot;&gt;Thorax.js&lt;/a&gt;, von denen jedes &lt;a href=&quot;http://9elements.com/io/index.php/comparison-of-marionette-and-chaplin&quot;&gt;einen etwas anderen Ansatz&lt;/a&gt; verfolgt – &lt;a href=&quot;http://lostechies.com/derickbailey/2012/06/13/why-should-i-use-backbone-marionette-instead-of-%E2%80%A6&quot;&gt;so sieht das auch Derick Bailey&lt;/a&gt;, der Hauptentwickler von Marionette.js.&lt;/p&gt;
-&lt;p&gt;Mich überzeugen vor allem die stetige, zuverlässige Weiterentwicklung sowie die sinnvollen &lt;a href=&quot;http://lostechies.com/derickbailey/category/marionette&quot;&gt;Konzepte und Hintergründe&lt;/a&gt; von Marionette.js. Andere Frameworks wie Angular.js bleiben natürlich trotzdem interessant und sind glücklicherweise auch das geplante Thema unseres nächsten Treffens.&lt;/p&gt;
+      <description>&lt;p&gt;Beim letzten Treffen haben wir wieder ausführlich die Umsetzung von Webanwendungen mit JavaScript diskutiert. Während es die letzten Male vor allem um die Backend-Umsetzung mit Node.js ging, lag diesmal der Schwerpunkt auf der Umsetzung im Frontend. Wie kontrovers das Thema ist, hat sich für mich erst heute wieder beim Lesen eines &lt;a href=&quot;http://www.localytics.com/blog/2013/angularjs-at-localytics&quot;&gt;Blog-Artikels von Localytics&lt;/a&gt; bestätigt.
+
+&lt;/p&gt;
+&lt;p&gt;In diesem Artikel werden die Hauptprobleme komplexerer &lt;a href=&quot;http://backbonejs.org&quot;&gt;Backbone.js&lt;/a&gt;-Anwendungen beschrieben. Dabei haben sich die Entwickler zu Beginn leider nicht mit der &lt;a href=&quot;http://backbonejs.org/#FAQ-why-backbone&quot;&gt;Philosophie von Backbone.js&lt;/a&gt; und den daraus resultierenden Anforderungen an den Entwickler befasst. Denn im Vergleich zu JavaScript-Frameworks wie &lt;a href=&quot;http://angularjs.org&quot;&gt;Angular.js&lt;/a&gt; oder &lt;a href=&quot;http://emberjs.com&quot;&gt;Ember.js&lt;/a&gt; gibt Backbone.js kaum Konventionen für die Entwicklung vor und überlässt aus Gründen der Flexibilität wichtige Entscheidungen zur Anwendungsarchitektur dem Entwickler.
+
+&lt;/p&gt;
+&lt;p&gt;Hier setzt die Backbone.js-Erweiterung &lt;a href=&quot;http://marionettejs.com&quot;&gt;Marionette.js&lt;/a&gt; an. Im Zusammenspiel mit Backbone.js bleibt zwar die Flexibilität erhalten, typische Probleme umfangreicherer Anwendungen werden aber schon im Ansatz vermieden.
+
+&lt;/p&gt;
+&lt;p&gt;Mit Marionette.js erhält Backbone.js unter anderem Module, die den visuellen Aufbau einer Anwendung durch Regions und Layouts vereinfachen sowie weitere Module zur Ausgabe von Backbone.js-Models und Collections. Das ist aber nur eine kleine Auswahl aus einer ganzen Reihe nützlicher &lt;a href=&quot;https://github.com/marionettejs/backbone.marionette#documentation&quot;&gt;Bestandteile von Marionette.js&lt;/a&gt;.
+
+&lt;/p&gt;
+&lt;p&gt;In meinem &lt;a href=&quot;http://renezschoch.de/talks/marionettejs-perfectprops&quot;&gt;Vortrag habe ich an einem realen Projekt meinen Einsatz von Marionette.js beschrieben&lt;/a&gt; und bin froh, zu Beginn die zusätzliche Zeit für den Einstieg investiert zu haben. Ohne die Unterstützung hätte ich bei meinem ersten Backbone.js-Projekt vermutlich einige Fehlentscheidungen getroffen, die ich im späteren Verlauf des Projekts nur sehr aufwändig hätte beheben können.
+
+&lt;/p&gt;
+&lt;p&gt;Für komplexere Backbone.js-Anwendungen kann ich deshalb nur jedem Entwickler die Verwendung eines Frameworks empfehlen. Neben Marionette.js sind das vor allem &lt;a href=&quot;http://chaplinjs.org&quot;&gt;Chaplin.js&lt;/a&gt; und &lt;a href=&quot;http://thoraxjs.org&quot;&gt;Thorax.js&lt;/a&gt;, von denen jedes &lt;a href=&quot;http://9elements.com/io/index.php/comparison-of-marionette-and-chaplin&quot;&gt;einen etwas anderen Ansatz&lt;/a&gt; verfolgt – &lt;a href=&quot;http://lostechies.com/derickbailey/2012/06/13/why-should-i-use-backbone-marionette-instead-of-%E2%80%A6&quot;&gt;so sieht das auch Derick Bailey&lt;/a&gt;, der Hauptentwickler von Marionette.js.
+
+&lt;/p&gt;
+&lt;p&gt;Mich überzeugen vor allem die stetige, zuverlässige Weiterentwicklung sowie die sinnvollen &lt;a href=&quot;http://lostechies.com/derickbailey/category/marionette&quot;&gt;Konzepte und Hintergründe&lt;/a&gt; von Marionette.js. Andere Frameworks wie Angular.js bleiben natürlich trotzdem interessant und sind glücklicherweise auch das geplante Thema unseres nächsten Treffens.
+&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -108,16 +153,23 @@ Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
       <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/17/leipzigjs-5.0/</guid>
       <author></author>
       <description>&lt;p&gt;Wir laden euch zum fünften Treffen der Usergroup ein.  Treffpunkt ist einmal
-mehr mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; die 
-Hans-Poeche-Straße 23-25.&lt;/p&gt;
+mehr mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; die 
+Hans-Poeche-Straße 23-25.
+
+&lt;/p&gt;
 &lt;p&gt;Wer kommen will, ist herzlich eingeladen sich im
-&lt;a href=&quot;http://doodle.com/nmyctynptacq92fn&quot;&gt;Doodle&lt;/a&gt; zu verewigen.&lt;/p&gt;
+&lt;a href=&quot;http://doodle.com/nmyctynptacq92fn&quot;&gt;Doodle&lt;/a&gt; zu verewigen.
+
+&lt;/p&gt;
 &lt;p&gt;In Anschluss an den spannenden Vortrag von &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; 
-über &lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; stellt &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan
+über &lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt; stellt &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan
 Hoyer&lt;/a&gt; diesmal AngularJS
 vor. Danach wird es wie immer eine ausführliche Diskussion zu JS und
-nicht-JS-Themen geben.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine rege Teilnahme.&lt;/p&gt;
+nicht-JS-Themen geben.
+
+&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine rege Teilnahme.
+&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -127,14 +179,43 @@ nicht-JS-Themen geben.&lt;/p&gt;
       <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/25/das-fuenfte-treffen-steht-bevor/</guid>
       <author></author>
       <description>&lt;p&gt;Der nächste Termin für unser monatliches Javascript Usergroup-Treffen steht
-fest:&lt;/p&gt;
-&lt;p&gt;Am &lt;strong&gt;13. Mai um 19:00 Uhr&lt;/strong&gt;, wie immer im Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt;
-in der Hans-Poeche-Straße 23, Eingang direkt rechts vom Lucky Bike-Eingang.&lt;/p&gt;
+fest:
+
+&lt;/p&gt;
+&lt;p&gt;Am &lt;strong&gt;13. Mai um 19:00 Uhr&lt;/strong&gt;, wie immer im Büro von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt;
+in der Hans-Poeche-Straße 23, Eingang direkt rechts vom Lucky Bike-Eingang.
+
+&lt;/p&gt;
 &lt;p&gt;Thema wird ein Talk von &lt;a href=&quot;http://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt; sein,
-der nach dem &lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt;-Talk vom letzten Treffen
+der nach dem &lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt;-Talk vom letzten Treffen
 die Vorzüge von &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular&lt;/a&gt; beim entwickeln einer ähnlichen
-Applikation aufzeigen will.&lt;/p&gt;
-&lt;p&gt;Zu finden ist das Event außerdem auch bei &lt;a href=&quot;http://lanyrd.com/2013/javascript-usergroup-leipzig-treffen-mai/&quot;&gt;Lanyrd&lt;/a&gt;.&lt;/p&gt;
+Applikation aufzeigen will.
+
+&lt;/p&gt;
+&lt;p&gt;Zu finden ist das Event außerdem auch bei &lt;a href=&quot;http://lanyrd.com/2013/javascript-usergroup-leipzig-treffen-mai/&quot;&gt;Lanyrd&lt;/a&gt;.
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Treffen im September 2013</title>
+      <link>http://leipzigjs.github.io/artikel/2013/08/20/treffen-september/</link>
+      <pubDate>Tue, 20  Aug 2013 17:54:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/08/20/treffen-september/</guid>
+      <author></author>
+      <description>&lt;p&gt;Nachdem wir das gleiche Single-Page-App mit Backbone, Angular und Ember gesehen
+haben, zeigt &lt;a href=&quot;https://twitter.com/mr_matsumoto&quot;&gt;Michael Schidlowski&lt;/a&gt; diesmal,
+wie er Angular innerhalb einer &quot;normalen&quot; Applikation verwendet hat, um komplexe Formular-Validierungen zu implementieren.
+
+&lt;/p&gt;
+&lt;p&gt;Wer Interesse an der Teilnahme hat, kann sich im folgenden Doodle verewigen,
+damit wir für alle eine akzeptable Zeit finden können:
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.doodle.com/78ivmrcmvh3yxewy&quot;&gt;Zum Doodle&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Wir hoffen den Teilnehmer-Rekord vom letzten Mal brechen zu können :)
+&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -144,33 +225,58 @@ Applikation aufzeigen will.&lt;/p&gt;
       <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/06/21/leipzigjs-6.0/</guid>
       <author></author>
       <description>&lt;p&gt;Wir laden euch zum sechsten Treffen der Usergroup ein.  Treffpunkt ist wieder
-mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; die 
-Hans-Poeche-Straße 23-25.&lt;/p&gt;
+mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; die 
+Hans-Poeche-Straße 23-25.
+
+&lt;/p&gt;
 &lt;p&gt;Der Termin wurde per Doodle auf den 22. Juli terminiert. Zeit ist diesmal aus
 Gründen auf 20:00 Uhr festgesetzt. Wer will kann für ein kleines Vorgeplänkel
-gerne schon 19:00 Uhr kommen.&lt;/p&gt;
+gerne schon 19:00 Uhr kommen.
+
+&lt;/p&gt;
 &lt;p&gt;Eigenlich war eine vortragslose Disskusion zum Thema Debugging und ein
 Editor-War geplant. Nun hat &lt;a href=&quot;https://twitter.com/behrendtio&quot;&gt;@behrendtio&lt;/a&gt; angeboten, die Reihe der
 Front-End-MV*-Frameworks fortzusetzen, indem er die gleiche Applikation
 nochmals in &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt; entwickelt. Er wird das Ergebnis
-vorstellen und seine Erfahrungen mit uns teilen.&lt;/p&gt;
-&lt;p&gt;Die anderen Punkte können jedoch dennoch danach weiter erörtert werden.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine rege Teilnahme.&lt;/p&gt;
+vorstellen und seine Erfahrungen mit uns teilen.
+
+&lt;/p&gt;
+&lt;p&gt;Die anderen Punkte können jedoch dennoch danach weiter erörtert werden.
+
+&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine rege Teilnahme.
+&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Treffen im September 2013</title>
-      <link>http://leipzigjs.github.io/artikel/2013/08/20/treffen-september/</link>
-      <pubDate>Tue, 20 Aug 2013 17:54:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/08/20/treffen-september/</guid>
+      <title>Wir laden zum siebenten Treffen ein</title>
+      <link>http://leipzigjs.github.io/artikel/2013/09/02/leipzigjs-7.0/</link>
+      <pubDate>Sun, 01 Sep 2013 09:10:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/09/02/leipzigjs-7.0/</guid>
       <author></author>
-      <description>&lt;p&gt;Nachdem wir das gleiche Single-Page-App mit Backbone, Angular und Ember gesehen
-haben, zeigt &lt;a href=&quot;https://twitter.com/mr_matsumoto&quot;&gt;Michael Schidlowski&lt;/a&gt; diesmal,
-wie er Angular innerhalb einer &amp;quot;normalen&amp;quot; Applikation verwendet hat, um komplexe Formular-Validierungen zu implementieren.&lt;/p&gt;
-&lt;p&gt;Wer Interesse an der Teilnahme hat, kann sich im folgenden Doodle verewigen,
-damit wir für alle eine akzeptable Zeit finden können:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.doodle.com/78ivmrcmvh3yxewy&quot;&gt;Zum Doodle&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Wir hoffen den Teilnehmer-Rekord vom letzten Mal brechen zu können :)&lt;/p&gt;
+      <description>&lt;p&gt;Moin Moin,
+
+&lt;/p&gt;
+&lt;p&gt;wir haben nun einen Termin für das Treffen im September: der 19.09., 20 Uhr,
+wie immer bei &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; in der Hans-Poeche-Straße 23-25,
+Nähe Hauptbahnhof.
+
+&lt;/p&gt;
+&lt;h2&gt;Themen&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/mr_matsumoto&quot;&gt;Michael&lt;/a&gt; spricht über komplexe Formular-Validierung mit AngularJS.&lt;/li&gt;
+&lt;li&gt;Die Entwickler von &lt;a href=&quot;http://www.rappidjs.com&quot;&gt;rAppid:js&lt;/a&gt; geben einen Lightning Talk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Beim nächsten Treffen wird das Framework dann wahrscheinlich ausführlich vorgestellt.
+
+&lt;/p&gt;
+&lt;h2&gt;Das Event auf Lanyrd&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://lanyrd.com/2013/javascript-usergroup-leipzig-treffen-september/&quot;&gt;http://lanyrd.com/2013/javascript-usergroup-leipzig-treffen-september/&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;h2&gt;Special guests&lt;/h2&gt;
+&lt;p&gt;Die Jungs von der Rails UG aus Leipzig kommen auch, yeah!
+&lt;/p&gt;
 </description>
     </item>
   </channel>
