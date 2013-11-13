@@ -5,19 +5,8 @@
     <atom:link href="http://leipzigjs.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://leipzigjs.github.io</link>
     <description>Das Treffen zum Thema Javascript und Node.js in Leipzig</description>
-    <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
+    <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
     <language>de</language>
-    <item>
-      <title>Es wird Zeit</title>
-      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
-      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
-      <author></author>
-      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.&lt;/p&gt;
-&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.&lt;/p&gt;
-</description>
-    </item>
     <item>
       <title>LeipzigJS 2.0 - Testing Javascript</title>
       <link>http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</link>
@@ -35,25 +24,44 @@
 </description>
     </item>
     <item>
-      <title>LeipzigJS 3.0</title>
-      <link>http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</link>
-      <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</guid>
+      <title>Es wird Zeit</title>
+      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
+      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
       <author></author>
-      <description>&lt;p&gt;Beim letzten Treffen der Usergroup kamen leider nur die Hälfte der Teilnehmer des vorherigen Treffens, was sicherlich auch dem Zeitpunkt geschuldet war.&lt;/p&gt;
-&lt;p&gt;Deshalb möchten wir diesmal wieder über Doodle einen Termin finden, der für alle passend ist. Als trage dich bitte schnellst möglich ein: &lt;a href=&quot;http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/href=%22http://doodle.com/nci22t2b72gbxum8&quot;&gt;Zum Doodle&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eure Teilnahme.&lt;/p&gt;
+      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.&lt;/p&gt;
+&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>LeipzigJS drittes Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</link>
-      <pubDate>Thu, 24 Jan 2013 11:01:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</guid>
+      <title>Wir laden zum vierten Treffen ein</title>
+      <link>http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</link>
+      <pubDate>Sat, 23 Mar 2013 11:01:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</guid>
       <author></author>
-      <description>&lt;p&gt;Der Termin zum dritten Treffen der Leipziger Javascript-Usergroup steht fest! Am &lt;strong&gt;Montag, dem 28.01. um 18:00 Uhr&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Treffpunkt ist diesmal das Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; (direkt neben Lucky Bike). Vielen Dank schon einmal an Food.de!&lt;/p&gt;
-&lt;p&gt;Themen werden unter anderen die Webseite der Usergroup, sowie vrsl. &lt;a href=&quot;http://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; und &lt;a href=&quot;http://socket.io/&quot;&gt;Socket.io&lt;/a&gt; sein.&lt;/p&gt;
+      <description>&lt;p&gt;Zum nunmehr vierten mal laden wir alle aus Leipzig und Umgebung (beim letzten Treffen hatten wir Besuch aus Halle :)) ein.
+Treffpunkt ist mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; die Hans-Poeche-Straße 23-25.&lt;/p&gt;
+&lt;p&gt;Wer kommen will ist, herzlich eingeladen sich im &lt;a href=&quot;http://doodle.com/4g4xvavpuctnzpd7&quot;&gt;Doodle&lt;/a&gt; zu verewigen, damit wir möglichst viele Leute zusammenbekommen.&lt;/p&gt;
+&lt;p&gt;Als Redner konnten wir &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin Knofe&lt;/a&gt;
+von den &lt;a href=&quot;http://medienfreunde.com/&quot;&gt;Medienfreunden&lt;/a&gt; gewinnen. Sie werden über das Thema
+&lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; sprechen und sicher
+einige interessante Einblicke bezüglich der Implementierung gewähren.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Termin für viertes Treffen steht fest</title>
+      <link>http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</link>
+      <pubDate>Wed, 27 Mar 2013 14:25:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</guid>
+      <author></author>
+      <description>&lt;p&gt;Am &lt;strong&gt;Montag dem 8. April 2013 um 19:00 Uhr&lt;/strong&gt; finden wir uns wieder im Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; zusammen.&lt;/p&gt;
+&lt;p&gt;Wie bereits angekündigt werden &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin
+Knofe&lt;/a&gt; zum Thema &lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on
+Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
+&lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone&lt;/a&gt; und Frontend-JS-Apps natürlich bei allen gerade heiß gehandelt werden.&lt;/p&gt;
+&lt;p&gt;Wer dabei sein will, kann gerne vorbeischauen! Die bisherige Rekord von 10 Teilnehmern sollte langsam aber sicher fallen
+:)&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -108,33 +116,25 @@ Applikation aufzeigen will.&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Wir laden zum vierten Treffen ein</title>
-      <link>http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</link>
-      <pubDate>Sat, 23 Mar 2013 11:01:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</guid>
+      <title>LeipzigJS 3.0</title>
+      <link>http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</link>
+      <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</guid>
       <author></author>
-      <description>&lt;p&gt;Zum nunmehr vierten mal laden wir alle aus Leipzig und Umgebung (beim letzten Treffen hatten wir Besuch aus Halle :)) ein.
-Treffpunkt ist mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; die Hans-Poeche-Straße 23-25.&lt;/p&gt;
-&lt;p&gt;Wer kommen will ist, herzlich eingeladen sich im &lt;a href=&quot;http://doodle.com/4g4xvavpuctnzpd7&quot;&gt;Doodle&lt;/a&gt; zu verewigen, damit wir möglichst viele Leute zusammenbekommen.&lt;/p&gt;
-&lt;p&gt;Als Redner konnten wir &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin Knofe&lt;/a&gt;
-von den &lt;a href=&quot;http://medienfreunde.com/&quot;&gt;Medienfreunden&lt;/a&gt; gewinnen. Sie werden über das Thema
-&lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; sprechen und sicher
-einige interessante Einblicke bezüglich der Implementierung gewähren.&lt;/p&gt;
+      <description>&lt;p&gt;Beim letzten Treffen der Usergroup kamen leider nur die Hälfte der Teilnehmer des vorherigen Treffens, was sicherlich auch dem Zeitpunkt geschuldet war.&lt;/p&gt;
+&lt;p&gt;Deshalb möchten wir diesmal wieder über Doodle einen Termin finden, der für alle passend ist. Als trage dich bitte schnellst möglich ein: &lt;a href=&quot;http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/href=%22http://doodle.com/nci22t2b72gbxum8&quot;&gt;Zum Doodle&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eure Teilnahme.&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Termin für viertes Treffen steht fest</title>
-      <link>http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</link>
-      <pubDate>Wed, 27 Mar 2013 14:25:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</guid>
+      <title>LeipzigJS drittes Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</link>
+      <pubDate>Thu, 24 Jan 2013 11:01:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</guid>
       <author></author>
-      <description>&lt;p&gt;Am &lt;strong&gt;Montag dem 8. April 2013 um 19:00 Uhr&lt;/strong&gt; finden wir uns wieder im Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; zusammen.&lt;/p&gt;
-&lt;p&gt;Wie bereits angekündigt werden &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin
-Knofe&lt;/a&gt; zum Thema &lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on
-Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
-&lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone&lt;/a&gt; und Frontend-JS-Apps natürlich bei allen gerade heiß gehandelt werden.&lt;/p&gt;
-&lt;p&gt;Wer dabei sein will, kann gerne vorbeischauen! Die bisherige Rekord von 10 Teilnehmern sollte langsam aber sicher fallen
-:)&lt;/p&gt;
+      <description>&lt;p&gt;Der Termin zum dritten Treffen der Leipziger Javascript-Usergroup steht fest! Am &lt;strong&gt;Montag, dem 28.01. um 18:00 Uhr&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Treffpunkt ist diesmal das Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; (direkt neben Lucky Bike). Vielen Dank schon einmal an Food.de!&lt;/p&gt;
+&lt;p&gt;Themen werden unter anderen die Webseite der Usergroup, sowie vrsl. &lt;a href=&quot;http://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; und &lt;a href=&quot;http://socket.io/&quot;&gt;Socket.io&lt;/a&gt; sein.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -219,6 +219,26 @@ auch Marketing-Fachleute und Designer gerne gesehen ;)&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>Achtes Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2013/10/09/achtes-treffen/</link>
+      <pubDate>Wed, 09 Oct 2013 11:11:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/10/09/achtes-treffen/</guid>
+      <author></author>
+      <description>&lt;p&gt;Das 8. Treffen steht an. Diesmal wollen wir in einer &lt;a href=&quot;http://en.wikipedia.org/wiki/Lightning_talk&quot;&gt;Lightning-Talk-Session&lt;/a&gt;
+allen die Chance geben, spannende eigene oder fremde Projekte oder Ideen
+vorzustellen. Dafür bekommt jeder Vortragende zehn Minuten (bei übermäßiger 
+Anzahl an Vortrageneden auch weniger) Zeit.&lt;/p&gt;
+&lt;p&gt;Am Ende werden die spannendsten Vorträge erwählt. Diese sollten dann auf einem
+der folgenden Treffen als Full-Featured-Talk gehalten werden.&lt;/p&gt;
+&lt;p&gt;Also, bereitet etwas interessantes aus der JS-Welt vor, mit oder ohne Folien,
+ganz egal. Wer jetzt schon weiß, dass er einen Vortrag halten will, kann das
+gerne schon mal in die Kommantare zu diesem Post schreiben.&lt;/p&gt;
+&lt;p&gt;Termin für das Treffen ist Montag, 21.10.
+Ort ist wieder einmal &lt;a href=&quot;http://food.de/&quot;&gt;food.de&lt;/a&gt;, Hans-Poeche-Straße 23-25, Nähe Hauptbahnhof.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf spannende Vorträge.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Lightning-Talk-Session</title>
       <link>http://leipzigjs.github.io/artikel/2013/11/05/neuntest-treffen/</link>
       <pubDate>Tue, 05 Nov 2013 00:11:00 +0100</pubDate>
@@ -244,23 +264,29 @@ der Bibliothek &lt;a href=&quot;https://github.com/it-ony/xajax&quot;&gt;XAJAX&l
 </description>
     </item>
     <item>
-      <title>Achtes Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2013/10/09/achtes-treffen/</link>
-      <pubDate>Wed, 09 Oct 2013 11:11:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/10/09/achtes-treffen/</guid>
+      <title>Jubiläums-Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2013/11/13/jubilaeums-treffen/</link>
+      <pubDate>Mon, 11 Nov 2013 16:33:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/11/13/jubilaeums-treffen/</guid>
       <author></author>
-      <description>&lt;p&gt;Das 8. Treffen steht an. Diesmal wollen wir in einer &lt;a href=&quot;http://en.wikipedia.org/wiki/Lightning_talk&quot;&gt;Lightning-Talk-Session&lt;/a&gt;
-allen die Chance geben, spannende eigene oder fremde Projekte oder Ideen
-vorzustellen. Dafür bekommt jeder Vortragende zehn Minuten (bei übermäßiger 
-Anzahl an Vortrageneden auch weniger) Zeit.&lt;/p&gt;
-&lt;p&gt;Am Ende werden die spannendsten Vorträge erwählt. Diese sollten dann auf einem
-der folgenden Treffen als Full-Featured-Talk gehalten werden.&lt;/p&gt;
-&lt;p&gt;Also, bereitet etwas interessantes aus der JS-Welt vor, mit oder ohne Folien,
-ganz egal. Wer jetzt schon weiß, dass er einen Vortrag halten will, kann das
-gerne schon mal in die Kommantare zu diesem Post schreiben.&lt;/p&gt;
-&lt;p&gt;Termin für das Treffen ist Montag, 21.10.
-Ort ist wieder einmal &lt;a href=&quot;http://food.de/&quot;&gt;food.de&lt;/a&gt;, Hans-Poeche-Straße 23-25, Nähe Hauptbahnhof.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf spannende Vorträge.&lt;/p&gt;
+      <description>&lt;p&gt;Das &lt;em&gt;zehnte Treffen&lt;/em&gt; der Leipziger Javascript-Usergroup steht an! Das
+Jubiläums-Treffen findet am &lt;strong&gt;25. November&lt;/strong&gt; statt, wie immer bei den Jungs von
+&lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt;, die uns freundlicherweise ihr Büro schon
+seit längerer Zeit zur Verfügung stellen. Adresse ist auch die Gleiche
+geblieben: &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt;, Eingang direkt rechts vom Lucky
+Bike-Eingang. Zeitpunkt ist wieder &lt;strong&gt;20:00 Uhr&lt;/strong&gt;, inklusive 10 Minuten Toleranz bis wir
+anfangen ;)&lt;/p&gt;
+&lt;p&gt;In Punkto Talks hat sich wieder einmal &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan
+Hoyer&lt;/a&gt; vorbereitet, der das extrem spannende
+Thema SEO bei Frontend-JS-Apps aufgreifen will und dabei näher beleuchten wird,
+welche Fallstricke hierbei lauern und wie man trotz fehlendem Contents gute
+Ergebnisse bei Google und Co. erreichen kann.&lt;/p&gt;
+&lt;p&gt;Wer einen Lanyrd-Account hat oder gerne einen erstellen möchte, kann sich
+&lt;a href=&quot;http://lanyrd.com/2013/10th-leipzigjs-meetup/&quot;&gt;hier&lt;/a&gt; eintragen, damit wir grob
+wissen, mit wie vielen Teilnehmern wir rechnen müssen.&lt;/p&gt;
+&lt;p&gt;Sollte noch jemand Interesse haben, einen Lightning-Talk zu halten, so kann er
+sich gerne via &lt;a href=&quot;https://twitter.com/leipzigjs&quot;&gt;Twitter&lt;/a&gt; melden.&lt;/p&gt;
+&lt;p&gt;Wir sehen uns am 25.!&lt;/p&gt;
 </description>
     </item>
   </channel>
