@@ -5,8 +5,19 @@
     <atom:link href="http://leipzigjs.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://leipzigjs.github.io</link>
     <description>Das Treffen zum Thema Javascript und Node.js in Leipzig</description>
-    <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
+    <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
     <language>de</language>
+    <item>
+      <title>Es wird Zeit</title>
+      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
+      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
+      <author></author>
+      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.&lt;/p&gt;
+&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>LeipzigJS 2.0 - Testing Javascript</title>
       <link>http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</link>
@@ -21,17 +32,6 @@
 &lt;li&gt;Frontend testen mit &lt;a href=&quot;https://github.com/airportyh/testem&quot;&gt;Test&amp;#39;em&lt;/a&gt; - &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Wir freuen uns auf euer Kommen.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Es wird Zeit</title>
-      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
-      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
-      <author></author>
-      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.&lt;/p&gt;
-&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.&lt;/p&gt;
 </description>
     </item>
     <item>
