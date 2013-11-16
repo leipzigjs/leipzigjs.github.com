@@ -26,7 +26,7 @@ sich gerne via [Twitter](https://twitter.com/leipzigjs) melden.
 
 Wir sehen uns am 25.!
 
-**Update**: Wie den Kommentarren zu entnehmen haben wir zwei Anmeldungen für
+**Update**: Wie den Kommentaren zu entnehmen haben wir zwei Anmeldungen für
 Lightning Talks:
 
 * [Toni](https://github.com/it-ony) über Suchmaschinen-Content-Generierung mit [rAppid.JS](http://www.rappidjs.com/#/home)

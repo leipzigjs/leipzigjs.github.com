@@ -138,6 +138,21 @@ Applikation aufzeigen will.&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>Treffen im September 2013</title>
+      <link>http://leipzigjs.github.io/artikel/2013/08/20/treffen-september/</link>
+      <pubDate>Tue, 20 Aug 2013 17:54:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/08/20/treffen-september/</guid>
+      <author></author>
+      <description>&lt;p&gt;Nachdem wir das gleiche Single-Page-App mit Backbone, Angular und Ember gesehen
+haben, zeigt &lt;a href=&quot;https://twitter.com/mr_matsumoto&quot;&gt;Michael Schidlowski&lt;/a&gt; diesmal,
+wie er Angular innerhalb einer &amp;quot;normalen&amp;quot; Applikation verwendet hat, um komplexe Formular-Validierungen zu implementieren.&lt;/p&gt;
+&lt;p&gt;Wer Interesse an der Teilnahme hat, kann sich im folgenden Doodle verewigen,
+damit wir für alle eine akzeptable Zeit finden können:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.doodle.com/78ivmrcmvh3yxewy&quot;&gt;Zum Doodle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wir hoffen den Teilnehmer-Rekord vom letzten Mal brechen zu können :)&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Wir laden zum sechsten Treffen ein</title>
       <link>http://leipzigjs.github.io/artikel/2013/06/21/leipzigjs-6.0/</link>
       <pubDate>Fri, 21 Jun 2013 09:10:00 +0200</pubDate>
@@ -156,21 +171,6 @@ nochmals in &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt; ent
 vorstellen und seine Erfahrungen mit uns teilen.&lt;/p&gt;
 &lt;p&gt;Die anderen Punkte können jedoch dennoch danach weiter erörtert werden.&lt;/p&gt;
 &lt;p&gt;Wir freuen uns auf eine rege Teilnahme.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Treffen im September 2013</title>
-      <link>http://leipzigjs.github.io/artikel/2013/08/20/treffen-september/</link>
-      <pubDate>Tue, 20 Aug 2013 17:54:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/08/20/treffen-september/</guid>
-      <author></author>
-      <description>&lt;p&gt;Nachdem wir das gleiche Single-Page-App mit Backbone, Angular und Ember gesehen
-haben, zeigt &lt;a href=&quot;https://twitter.com/mr_matsumoto&quot;&gt;Michael Schidlowski&lt;/a&gt; diesmal,
-wie er Angular innerhalb einer &amp;quot;normalen&amp;quot; Applikation verwendet hat, um komplexe Formular-Validierungen zu implementieren.&lt;/p&gt;
-&lt;p&gt;Wer Interesse an der Teilnahme hat, kann sich im folgenden Doodle verewigen,
-damit wir für alle eine akzeptable Zeit finden können:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.doodle.com/78ivmrcmvh3yxewy&quot;&gt;Zum Doodle&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Wir hoffen den Teilnehmer-Rekord vom letzten Mal brechen zu können :)&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -287,7 +287,7 @@ wissen, mit wie vielen Teilnehmern wir rechnen müssen.&lt;/p&gt;
 &lt;p&gt;Sollte noch jemand Interesse haben, einen Lightning-Talk zu halten, so kann er
 sich gerne via &lt;a href=&quot;https://twitter.com/leipzigjs&quot;&gt;Twitter&lt;/a&gt; melden.&lt;/p&gt;
 &lt;p&gt;Wir sehen uns am 25.!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: Wie den Kommentarren zu entnehmen haben wir zwei Anmeldungen für
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: Wie den Kommentaren zu entnehmen haben wir zwei Anmeldungen für
 Lightning Talks:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/it-ony&quot;&gt;Toni&lt;/a&gt; über Suchmaschinen-Content-Generierung mit &lt;a href=&quot;http://www.rappidjs.com/#/home&quot;&gt;rAppid.JS&lt;/a&gt;&lt;/li&gt;
