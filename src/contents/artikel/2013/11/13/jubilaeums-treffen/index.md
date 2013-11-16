@@ -25,3 +25,9 @@ Sollte noch jemand Interesse haben, einen Lightning-Talk zu halten, so kann er
 sich gerne via [Twitter](https://twitter.com/leipzigjs) melden.
 
 Wir sehen uns am 25.!
+
+**Update**: Wie den Kommentarren zu entnehmen haben wir zwei Anmeldungen für
+Lightning Talks:
+
+* [Toni](https://github.com/it-ony) über Suchmaschinen-Content-Generierung mit [rAppid.JS](http://www.rappidjs.com/#/home)
+* [der-On](https://github.com/der-on) über das Node.js-Framework [Geddy](http://geddyjs.org/)
