@@ -21,7 +21,7 @@ mit AngularJS einfach zu erzeugen. Dafür wurde PhantomJS als Webserver
 genutzt. Die entsprechende Beispielapplikation findet man
 [hier](https://github.com/StephanHoyer/SearchengineContent).
 
-Der dritte Talk wurde von [Toni](https://github.com/it-ony) über das gleiche
+Der dritte Talk wurde von [Tony](https://github.com/it-ony) über das gleiche
 Thema – jedoch bezogen auf das von ihm mitentwickelte
 [rAppid.JS](http://www.rappidjs.com/#/home) – gehalten. Das Framework ist so
 gebaut, dass der HTML-Content auch Serverseitig mittels node.js generiert werden 
