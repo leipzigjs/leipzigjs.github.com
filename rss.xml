@@ -5,8 +5,40 @@
     <atom:link href="http://leipzigjs.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://leipzigjs.github.io</link>
     <description>Das Treffen zum Thema Javascript und Node.js in Leipzig</description>
-    <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
+    <pubDate>Wed, 15 Jan 2014 10:52:00 +0100</pubDate>
     <language>de</language>
+    <item>
+      <title>Review Januar-Treffen 2014</title>
+      <link>http://leipzigjs.github.io/artikel/2014/01/15/review-januar-treffen-2014/</link>
+      <pubDate>Wed, 15 Jan 2014 10:52:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/01/15/review-januar-treffen-2014/</guid>
+      <author></author>
+      <description>&lt;p&gt;Das erste Treffen im neuen Jahr war wieder gut besucht, vielen Dank erst einmal
+an alle Teilnehmer! Der erste Vortrag zum Thema &lt;a href=&quot;http://www.golang.org/&quot;&gt;Go&lt;/a&gt;
+wurde heiß diskutiert und auch beim zweiten Teil des Abends, zum Thema
+Generatoren in &lt;a href=&quot;http://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; gab es einiges an Diskussion.&lt;/p&gt;
+&lt;p&gt;Sowohl die &lt;a href=&quot;https://speakerdeck.com/behrendtio/einfuhrung-in-go&quot;&gt;Slides&lt;/a&gt; des
+ersten, als auch der &lt;a href=&quot;https://github.com/StephanHoyer/generators-talk&quot;&gt;Code&lt;/a&gt; des
+zweiten Vortrags sind online verfügbar, für alle bei denen Interesse geweckt
+wurde.&lt;/p&gt;
+&lt;p&gt;Das nächste Treffen wird voraussichtlich im Februar stattfinden, ein
+entsprechendes Doodle werden wir Ende Januar veröffentlichen. Wer gerne einen
+Vortrag halten will, kann sich wie immer bei uns melden, wir freuen uns über
+jeden Talk.&lt;/p&gt;
+&lt;p&gt;Bis zum nächsten mal!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Es wird Zeit</title>
+      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
+      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
+      <author></author>
+      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.&lt;/p&gt;
+&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>LeipzigJS 2.0 - Testing Javascript</title>
       <link>http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</link>
@@ -24,14 +56,14 @@
 </description>
     </item>
     <item>
-      <title>Es wird Zeit</title>
-      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
-      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
+      <title>LeipzigJS 3.0</title>
+      <link>http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</link>
+      <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</guid>
       <author></author>
-      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.&lt;/p&gt;
-&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.&lt;/p&gt;
+      <description>&lt;p&gt;Beim letzten Treffen der Usergroup kamen leider nur die Hälfte der Teilnehmer des vorherigen Treffens, was sicherlich auch dem Zeitpunkt geschuldet war.&lt;/p&gt;
+&lt;p&gt;Deshalb möchten wir diesmal wieder über Doodle einen Termin finden, der für alle passend ist. Als trage dich bitte schnellst möglich ein: &lt;a href=&quot;http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/href=%22http://doodle.com/nci22t2b72gbxum8&quot;&gt;Zum Doodle&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eure Teilnahme.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -43,17 +75,6 @@
       <description>&lt;p&gt;Der Termin zum dritten Treffen der Leipziger Javascript-Usergroup steht fest! Am &lt;strong&gt;Montag, dem 28.01. um 18:00 Uhr&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Treffpunkt ist diesmal das Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; (direkt neben Lucky Bike). Vielen Dank schon einmal an Food.de!&lt;/p&gt;
 &lt;p&gt;Themen werden unter anderen die Webseite der Usergroup, sowie vrsl. &lt;a href=&quot;http://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; und &lt;a href=&quot;http://socket.io/&quot;&gt;Socket.io&lt;/a&gt; sein.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>LeipzigJS 3.0</title>
-      <link>http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</link>
-      <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</guid>
-      <author></author>
-      <description>&lt;p&gt;Beim letzten Treffen der Usergroup kamen leider nur die Hälfte der Teilnehmer des vorherigen Treffens, was sicherlich auch dem Zeitpunkt geschuldet war.&lt;/p&gt;
-&lt;p&gt;Deshalb möchten wir diesmal wieder über Doodle einen Termin finden, der für alle passend ist. Als trage dich bitte schnellst möglich ein: &lt;a href=&quot;http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/href=%22http://doodle.com/nci22t2b72gbxum8&quot;&gt;Zum Doodle&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eure Teilnahme.&lt;/p&gt;
 </description>
     </item>
     <item>
