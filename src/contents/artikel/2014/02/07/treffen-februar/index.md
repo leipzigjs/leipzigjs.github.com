@@ -3,7 +3,7 @@ author: Stephan Hoyer
 date: 2014-02-07 9:30
 template: article.jade
 
-Auf zum zweiten Treffen in diesem Jahr. Geplant sind dieses mal wieder zwei
+Auf zum zweiten Treffen in diesem Jahr am 27.02.2014 um 20 Uhr. Geplant sind dieses mal wieder zwei
 spannende Vorträge:
 
 * [model.io](https://github.com/model-io/model.io) - Client/Server-Model-Synchronisation mit
