@@ -7,9 +7,9 @@ Auf zum zweiten Treffen in diesem Jahr am 27.02.2014 um 20 Uhr. Geplant sind die
 spannende Vorträge:
 
 * [model.io](https://github.com/model-io/model.io) - Client/Server-Model-Synchronisation mit
-* [Node.js](http://nodejs.org/) - Stephan Hoyer
+[Node.js](http://nodejs.org/) - Stephan Hoyer
 * [jscop](https://github.com/it-ony/jscop) - Statische Codeanalyse Tool für
-* besseren Javascript-Code - Tony Findeisen
+besseren Javascript-Code - Tony Findeisen
 
 Wie hoffen auf eine wiedermal rege Teilnahme.
 
