@@ -147,6 +147,30 @@ Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
 </description>
     </item>
     <item>
+      <title>Das fünfte Treffen steht bevor</title>
+      <link>http://leipzigjs.github.io/artikel/2013/04/25/das-fuenfte-treffen-steht-bevor/</link>
+      <pubDate>Thu, 25 Apr 2013 11:11:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/25/das-fuenfte-treffen-steht-bevor/</guid>
+      <author></author>
+      <description>&lt;p&gt;Der nächste Termin für unser monatliches Javascript Usergroup-Treffen steht
+fest:
+
+&lt;/p&gt;
+&lt;p&gt;Am &lt;strong&gt;13. Mai um 19:00 Uhr&lt;/strong&gt;, wie immer im Büro von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt;
+in der Hans-Poeche-Straße 23, Eingang direkt rechts vom Lucky Bike-Eingang.
+
+&lt;/p&gt;
+&lt;p&gt;Thema wird ein Talk von &lt;a href=&quot;http://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt; sein,
+der nach dem &lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt;-Talk vom letzten Treffen
+die Vorzüge von &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular&lt;/a&gt; beim entwickeln einer ähnlichen
+Applikation aufzeigen will.
+
+&lt;/p&gt;
+&lt;p&gt;Zu finden ist das Event außerdem auch bei &lt;a href=&quot;http://lanyrd.com/2013/javascript-usergroup-leipzig-treffen-mai/&quot;&gt;Lanyrd&lt;/a&gt;.
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Wir laden zum fünften Treffen ein</title>
       <link>http://leipzigjs.github.io/artikel/2013/04/17/leipzigjs-5.0/</link>
       <pubDate>Wed, 17 Apr 2013 10:10:00 +0200</pubDate>
@@ -169,30 +193,6 @@ nicht-JS-Themen geben.
 
 &lt;/p&gt;
 &lt;p&gt;Wir freuen uns auf eine rege Teilnahme.
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Das fünfte Treffen steht bevor</title>
-      <link>http://leipzigjs.github.io/artikel/2013/04/25/das-fuenfte-treffen-steht-bevor/</link>
-      <pubDate>Thu, 25 Apr 2013 11:11:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/25/das-fuenfte-treffen-steht-bevor/</guid>
-      <author></author>
-      <description>&lt;p&gt;Der nächste Termin für unser monatliches Javascript Usergroup-Treffen steht
-fest:
-
-&lt;/p&gt;
-&lt;p&gt;Am &lt;strong&gt;13. Mai um 19:00 Uhr&lt;/strong&gt;, wie immer im Büro von &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt;
-in der Hans-Poeche-Straße 23, Eingang direkt rechts vom Lucky Bike-Eingang.
-
-&lt;/p&gt;
-&lt;p&gt;Thema wird ein Talk von &lt;a href=&quot;http://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt; sein,
-der nach dem &lt;a href=&quot;http://marionettejs.com&quot;&gt;MarionetteJS&lt;/a&gt;-Talk vom letzten Treffen
-die Vorzüge von &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular&lt;/a&gt; beim entwickeln einer ähnlichen
-Applikation aufzeigen will.
-
-&lt;/p&gt;
-&lt;p&gt;Zu finden ist das Event außerdem auch bei &lt;a href=&quot;http://lanyrd.com/2013/javascript-usergroup-leipzig-treffen-mai/&quot;&gt;Lanyrd&lt;/a&gt;.
 &lt;/p&gt;
 </description>
     </item>
@@ -562,7 +562,7 @@ besseren Javascript-Code - Tony Findeisen&lt;/li&gt;
 &lt;a href=&quot;http://www.food.de&quot;&gt;Food.de&lt;/a&gt; (&lt;a href=&quot;https://maps.google.com/maps?q=food.de+%2F%2F+food+direkt+GmbH&amp;ie=UTF8&amp;ll=51.346925,12.388909&amp;spn=0.011674,0.009849&amp;fb=1&amp;hq=food.de+hans+poeche+stra%C3%9Fe+leipzig&amp;cid=15222040660717068586&amp;t=h&amp;z=16&amp;iwloc=A&quot;&gt;Maps Link&lt;/a&gt;) stattfinden.
 
 &lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf euch
+&lt;p&gt;Wir freuen uns auf euch.
 &lt;/p&gt;
 </description>
     </item>

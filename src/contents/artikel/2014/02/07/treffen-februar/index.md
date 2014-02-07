@@ -16,4 +16,4 @@ Wie hoffen auf eine wiedermal rege Teilnahme.
 Das Treffen wird wie immer bei unsersem großzügigem Location-Sponsor
 [Food.de](http://www.food.de) ([Maps Link](https://maps.google.com/maps?q=food.de+%2F%2F+food+direkt+GmbH&ie=UTF8&ll=51.346925,12.388909&spn=0.011674,0.009849&fb=1&hq=food.de+hans+poeche+stra%C3%9Fe+leipzig&cid=15222040660717068586&t=h&z=16&iwloc=A)) stattfinden.
 
-Wir freuen uns auf euch
+Wir freuen uns auf euch.
