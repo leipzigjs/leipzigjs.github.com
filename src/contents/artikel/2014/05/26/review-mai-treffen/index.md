@@ -3,17 +3,6 @@ author: Stephan Hoyer
 date: 2014-05-26 9:30:00
 template: article.jade
 
-##Achtung - Terminkorrektur
-
-Wir werden nun doch nicht den letzten sondern den ersten Donnerstag im Monat wählen, da
-es ansonsten zu einer Überschneidung mit der PHP-Usergroup gibt. An der nehmen einige
-Leute teil, deren Kommen uns wichtig ist ;)
-
-Nächstes Treffen ist dann also erst am 3.7. da nächste Woche etwas
-kurzfristig wäre.
-
----
-
 Das Treffen am Donnerstag war wieder mal sehr gut besucht.
 Die Gäste aus Köln konnten sich über volles Haus und die Zuhörer
 über zwei hochkarätige und teils amüsante Vorträge freuen.
@@ -41,3 +30,11 @@ Wir freuen uns aufs nächste Treffen, für das wir noch Vorträge suchen. Postet
 in die Kommentare oder twittert an [@leipzigjs](https://twitter.com/leipzigjs),
 wenn ihr etwas vortragen wollt.
 
+##Achtung - Terminkorrektur
+
+Wir werden nun doch nicht den letzten sondern den ersten Donnerstag im Monat wählen, da
+es ansonsten zu einer Überschneidung mit der PHP-Usergroup gibt. An der nehmen einige
+Leute teil, deren Kommen uns wichtig ist ;)
+
+Nächstes Treffen ist dann also erst am 3.7. da nächste Woche etwas
+kurzfristig wäre.
