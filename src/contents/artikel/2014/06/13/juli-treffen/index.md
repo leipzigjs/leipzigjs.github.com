@@ -4,7 +4,7 @@ date: 2014-06-13 11:15:00
 template: article.jade
 
 Unser Juli-Treffen steht an - diesmal mit einem festen Datum, dem **3.7.2014**,
-wie immer in der **Hans-Poeche-Straße 23-25** in Leipzig. Wie bereits im Blog zu
+wie immer **20:00 Uhr** in der **Hans-Poeche-Straße 23-25** in Leipzig. Wie bereits im Blog zu
 lesen, werden die Usergroups ab jetzt immer am ersten Donnerstag im Monat
 stattfinden.
 
