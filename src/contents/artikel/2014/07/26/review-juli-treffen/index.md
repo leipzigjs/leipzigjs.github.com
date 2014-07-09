@@ -13,9 +13,9 @@ Der erste Talk des Treffens am 03.07 schloss perfekt an den Talk von
 
 Das entsprechende Repo zum selbst ausprobieren findet ihr
 [hier](https://bitbucket.org/keimlink/pvs-example). Die Folien eines
-equivalenten des Vortrags hat Markus auf
+equivalenten Vortrags sind auf
 [speakerdeck](https://speakerdeck.com/keimlink/virtuelle-maschinen-mit-packer-vagrant-und-salt-bauen)
-verfügbar. 
+verfügbar.
 
 Anm. d. R.: Er hatte sich die Mühe gemacht, die Folien eigenes für die leipzigjs
 noch mal anzupassen. Respekt!!!!111!!11 :P
