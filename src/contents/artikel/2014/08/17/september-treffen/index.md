@@ -13,7 +13,7 @@ immer **20:00 Uhr**. Weitere Informationen zur Location findet ihr
 
 Bei den letzten Treffen hatten wir einige Devops-lastige Talks, diesmal werden
 wir wieder eher die Entwickler-Schiene ansprechen. [Stephan
-Hoyer](de.linkedin.com/pub/stephan-hoyer/8b/18/473) hat sich zum Thema
+Hoyer](https://www.xing.com/profile/Stephan_Hoyer3) hat sich zum Thema
 [Browserify](http://browserify.org/) vorbereitet.
 
 Viele node-Entwickler freuen sich tagtäglich über node's
