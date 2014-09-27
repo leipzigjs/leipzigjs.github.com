@@ -1,0 +1,23 @@
+{
+  "name": "leipzigjs.github.com",
+  "version": "0.1.0",
+  "description": "LeipzigJS Website",
+  "main": "index.js",
+  "dependencies": {
+    "wintersmith": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leipzigjs/leipzigjs.github.com"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leipzigjs/leipzigjs.github.com/issues"
+  },
+  "homepage": "https://github.com/leipzigjs/leipzigjs.github.com"
+}

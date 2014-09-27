@@ -7,7 +7,7 @@ Nachdem wir im August aufgrund von Urlaub und Ferien eine kleine Pause eingelegt
 haben, geht es im September wie gewohnt weiter mit der Javascript Usergroup in
 Leipzig.
 
-Der erste Donnerstag im Monat fällt diesmal auf den **4.8.**, Zeitpunkt wie
+Der erste Donnerstag im Monat fällt diesmal auf den **4.9.**, Zeitpunkt wie
 immer **20:00 Uhr**. Weitere Informationen zur Location findet ihr
 [hier](/location/).
 
