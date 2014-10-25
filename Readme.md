@@ -1,4 +1,5 @@
 # LeipzigJS Usergroup Webseite
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/leipzigjs/leipzigjs.github.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Erreichbar unter [http://leipzigjs.github.io](http://leipzigjs.github.io)
 
