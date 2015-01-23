@@ -8,9 +8,10 @@ Start ins neue Jahr beginnen. Wir laden euch zum Februar-Treffen am Donnerstag
 05.02.2015 um 20:00 Uhr ein.
 
 Diesmal wird [Stephan](https://github.com/StephanHoyer) sein
-neues Lieblings-JS-Framework [mithril](http://lhorie.github.io/mithril/) vor. Es
-zeichnet sich durch Schnelligkeit und einen geringen Fußabdruck (<5kb) aus.
-Es folgt einem ähnlichem Prinzip wie Facebooks [React](http://facebook.github.io/react/) 
+neues Lieblings-JS-Framework [mithril](http://lhorie.github.io/mithril/)
+vorstellen. Es zeichnet sich durch Schnelligkeit und lLeichtigkeit in
+Entwicklung und Betrieb sowie einen geringen Fußabdruck (<5kb) aus.
+Es folgt einem ähnlichem Prinzip wie Facebooks [React](http://facebook.github.io/react/)
 und führt so zu einer sehr funktionalen, gut testbaren Anwendung.
 
 Das Treffen wird diesmal im
