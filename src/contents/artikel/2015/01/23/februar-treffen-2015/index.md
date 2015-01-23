@@ -3,7 +3,7 @@ author: Stephan Hoyer
 date: 2015-01-23 10:52
 template: article.jade
 
-Nachdem wir im Jannuar ein Treffen haben ausfallen lassen, wollen wir nun den
+Nachdem wir im Januar ein Treffen haben ausfallen lassen, wollen wir nun den
 Start ins neue Jahr beginnen. Wir laden euch zum Februar-Treffen am Donnerstag
 05.02.2015 um 20:00 Uhr ein.
 
