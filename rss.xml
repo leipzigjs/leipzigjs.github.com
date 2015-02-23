@@ -5,19 +5,8 @@
     <atom:link href="http://leipzigjs.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://leipzigjs.github.io</link>
     <description>Das Treffen zum Thema Javascript und Node.js in Leipzig</description>
-    <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
+    <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
     <language>de</language>
-    <item>
-      <title>Es wird Zeit</title>
-      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
-      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
-      <author></author>
-      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.&lt;/p&gt;
-&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.&lt;/p&gt;
-</description>
-    </item>
     <item>
       <title>LeipzigJS 2.0 - Testing Javascript</title>
       <link>http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</link>
@@ -32,6 +21,39 @@
 &lt;li&gt;Frontend testen mit &lt;a href=&quot;https://github.com/airportyh/testem&quot;&gt;Test&amp;#39;em&lt;/a&gt; - &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Wir freuen uns auf euer Kommen.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Es wird Zeit</title>
+      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
+      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
+      <author></author>
+      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.&lt;/p&gt;
+&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>LeipzigJS 3.0</title>
+      <link>http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</link>
+      <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</guid>
+      <author></author>
+      <description>&lt;p&gt;Beim letzten Treffen der Usergroup kamen leider nur die Hälfte der Teilnehmer des vorherigen Treffens, was sicherlich auch dem Zeitpunkt geschuldet war.&lt;/p&gt;
+&lt;p&gt;Deshalb möchten wir diesmal wieder über Doodle einen Termin finden, der für alle passend ist. Als trage dich bitte schnellst möglich ein: &lt;a href=&quot;http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/href=%22http://doodle.com/nci22t2b72gbxum8&quot;&gt;Zum Doodle&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eure Teilnahme.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>LeipzigJS drittes Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</link>
+      <pubDate>Thu, 24 Jan 2013 11:01:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</guid>
+      <author></author>
+      <description>&lt;p&gt;Der Termin zum dritten Treffen der Leipziger Javascript-Usergroup steht fest! Am &lt;strong&gt;Montag, dem 28.01. um 18:00 Uhr&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Treffpunkt ist diesmal das Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; (direkt neben Lucky Bike). Vielen Dank schon einmal an Food.de!&lt;/p&gt;
+&lt;p&gt;Themen werden unter anderen die Webseite der Usergroup, sowie vrsl. &lt;a href=&quot;http://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; und &lt;a href=&quot;http://socket.io/&quot;&gt;Socket.io&lt;/a&gt; sein.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -62,28 +84,6 @@ Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
 &lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone&lt;/a&gt; und Frontend-JS-Apps natürlich bei allen gerade heiß gehandelt werden.&lt;/p&gt;
 &lt;p&gt;Wer dabei sein will, kann gerne vorbeischauen! Die bisherige Rekord von 10 Teilnehmern sollte langsam aber sicher fallen
 :)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>LeipzigJS 3.0</title>
-      <link>http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</link>
-      <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</guid>
-      <author></author>
-      <description>&lt;p&gt;Beim letzten Treffen der Usergroup kamen leider nur die Hälfte der Teilnehmer des vorherigen Treffens, was sicherlich auch dem Zeitpunkt geschuldet war.&lt;/p&gt;
-&lt;p&gt;Deshalb möchten wir diesmal wieder über Doodle einen Termin finden, der für alle passend ist. Als trage dich bitte schnellst möglich ein: &lt;a href=&quot;http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/href=%22http://doodle.com/nci22t2b72gbxum8&quot;&gt;Zum Doodle&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eure Teilnahme.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>LeipzigJS drittes Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</link>
-      <pubDate>Thu, 24 Jan 2013 11:01:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</guid>
-      <author></author>
-      <description>&lt;p&gt;Der Termin zum dritten Treffen der Leipziger Javascript-Usergroup steht fest! Am &lt;strong&gt;Montag, dem 28.01. um 18:00 Uhr&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Treffpunkt ist diesmal das Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; (direkt neben Lucky Bike). Vielen Dank schon einmal an Food.de!&lt;/p&gt;
-&lt;p&gt;Themen werden unter anderen die Webseite der Usergroup, sowie vrsl. &lt;a href=&quot;http://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; und &lt;a href=&quot;http://socket.io/&quot;&gt;Socket.io&lt;/a&gt; sein.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -361,6 +361,26 @@ Fall noch anbieten, falls jemand gerne ein Thema vorstellen möchte!&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>Treffen Februar</title>
+      <link>http://leipzigjs.github.io/artikel/2014/02/07/treffen-februar/</link>
+      <pubDate>Fri, 07 Feb 2014 09:30:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/02/07/treffen-februar/</guid>
+      <author></author>
+      <description>&lt;p&gt;Auf zum zweiten Treffen in diesem Jahr am 27.02.2014 um 20 Uhr. Geplant sind dieses mal wieder zwei
+spannende Vorträge:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/model-io/model.io&quot;&gt;model.io&lt;/a&gt; - Client/Server-Model-Synchronisation mit
+&lt;a href=&quot;http://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; - Stephan Hoyer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/it-ony/jscop&quot;&gt;jscop&lt;/a&gt; - Statische Codeanalyse Tool für
+besseren Javascript-Code - Tony Findeisen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wie hoffen auf eine wiedermal rege Teilnahme.&lt;/p&gt;
+&lt;p&gt;Das Treffen wird wie immer bei unsersem großzügigem Location-Sponsor
+&lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; (&lt;a href=&quot;https://maps.google.com/maps?q=food.de+%2F%2F+food+direkt+GmbH&amp;amp;ie=UTF8&amp;amp;ll=51.346925,12.388909&amp;amp;spn=0.011674,0.009849&amp;amp;fb=1&amp;amp;hq=food.de+hans+poeche+stra%C3%9Fe+leipzig&amp;amp;cid=15222040660717068586&amp;amp;t=h&amp;amp;z=16&amp;amp;iwloc=A&quot;&gt;Maps Link&lt;/a&gt;) stattfinden.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf euch.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Review Januar-Treffen 2014</title>
       <link>http://leipzigjs.github.io/artikel/2014/01/15/review-januar-treffen-2014/</link>
       <pubDate>Wed, 15 Jan 2014 10:52:00 +0100</pubDate>
@@ -379,26 +399,6 @@ entsprechendes Doodle werden wir Ende Januar veröffentlichen. Wer gerne einen
 Vortrag halten will, kann sich wie immer bei uns melden, wir freuen uns über
 jeden Talk.&lt;/p&gt;
 &lt;p&gt;Bis zum nächsten mal!&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Treffen Februar</title>
-      <link>http://leipzigjs.github.io/artikel/2014/02/07/treffen-februar/</link>
-      <pubDate>Fri, 07 Feb 2014 09:30:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/02/07/treffen-februar/</guid>
-      <author></author>
-      <description>&lt;p&gt;Auf zum zweiten Treffen in diesem Jahr am 27.02.2014 um 20 Uhr. Geplant sind dieses mal wieder zwei
-spannende Vorträge:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/model-io/model.io&quot;&gt;model.io&lt;/a&gt; - Client/Server-Model-Synchronisation mit
-&lt;a href=&quot;http://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; - Stephan Hoyer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/it-ony/jscop&quot;&gt;jscop&lt;/a&gt; - Statische Codeanalyse Tool für
-besseren Javascript-Code - Tony Findeisen&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Wie hoffen auf eine wiedermal rege Teilnahme.&lt;/p&gt;
-&lt;p&gt;Das Treffen wird wie immer bei unsersem großzügigem Location-Sponsor
-&lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; (&lt;a href=&quot;https://maps.google.com/maps?q=food.de+%2F%2F+food+direkt+GmbH&amp;amp;ie=UTF8&amp;amp;ll=51.346925,12.388909&amp;amp;spn=0.011674,0.009849&amp;amp;fb=1&amp;amp;hq=food.de+hans+poeche+stra%C3%9Fe+leipzig&amp;amp;cid=15222040660717068586&amp;amp;t=h&amp;amp;z=16&amp;amp;iwloc=A&quot;&gt;Maps Link&lt;/a&gt;) stattfinden.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf euch.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -432,6 +432,28 @@ Erfahrungsaustausch und besseres Kennenlernen nutzen.&lt;/p&gt;
 &lt;p&gt;Das Treffen wird abermals bei unsersem großzügigem Location-Sponsor
 &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; (&lt;a href=&quot;https://maps.google.com/maps?q=food.de+%2F%2F+food+direkt+GmbH&amp;amp;ie=UTF8&amp;amp;ll=51.346925,12.388909&amp;amp;spn=0.011674,0.009849&amp;amp;fb=1&amp;amp;hq=food.de+hans+poeche+stra%C3%9Fe+leipzig&amp;amp;cid=15222040660717068586&amp;amp;t=h&amp;amp;z=16&amp;amp;iwloc=A&quot;&gt;Maps Link&lt;/a&gt;) stattfinden.&lt;/p&gt;
 &lt;p&gt;Wir freuen uns auf euch.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Juli Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2014/06/13/juli-treffen/</link>
+      <pubDate>Fri, 13 Jun 2014 13:15:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/06/13/juli-treffen/</guid>
+      <author></author>
+      <description>&lt;p&gt;Unser Juli-Treffen steht an - diesmal mit einem festen Datum, dem &lt;strong&gt;3.7.2014&lt;/strong&gt;,
+wie immer &lt;strong&gt;20:00 Uhr&lt;/strong&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; in Leipzig. Wie bereits im Blog zu
+lesen, werden die Usergroups ab jetzt immer am ersten Donnerstag im Monat
+stattfinden.&lt;/p&gt;
+&lt;p&gt;Wie beim letzten Mal möchten wir auch im Juli wieder zwei Vorträge präsentieren,
+die sich sowohl mit Javascript-Themen, als auch DevOps-nahen Sachen beschäftigen.&lt;/p&gt;
+&lt;p&gt;Zum einen wird &lt;a href=&quot;http://www.keimlink.de/&quot;&gt;Markus Zapke-Gründemann&lt;/a&gt; einen Vortrag
+über virtuelle Maschinen mit &lt;a href=&quot;http://www.packer.io/&quot;&gt;Packer&lt;/a&gt;,
+&lt;a href=&quot;http://www.vagrantup.com/&quot;&gt;Vagrant&lt;/a&gt; und
+&lt;a href=&quot;http://www.saltstack.com/community/&quot;&gt;Salt&lt;/a&gt; für Entwickler halten.&lt;/p&gt;
+&lt;p&gt;Außerdem wird Martin Läuter einen Talk zum Thema &amp;quot;Googles Closure Compiler –
+Anwendungsszenarien, Ökosystem, Features&amp;quot; geben.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns wie immer auf viele Gäste und vielleicht erträglichere
+Temperaturen als beim letzten mal!&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -502,28 +524,6 @@ es ansonsten zu einer Überschneidung mit der PHP-Usergroup gibt. An der nehmen 
 Leute teil, deren Kommen uns wichtig ist ;)&lt;/p&gt;
 &lt;p&gt;Nächstes Treffen ist dann also erst am 3.7. da nächste Woche etwas
 kurzfristig wäre.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Juli Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2014/06/13/juli-treffen/</link>
-      <pubDate>Fri, 13 Jun 2014 13:15:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/06/13/juli-treffen/</guid>
-      <author></author>
-      <description>&lt;p&gt;Unser Juli-Treffen steht an - diesmal mit einem festen Datum, dem &lt;strong&gt;3.7.2014&lt;/strong&gt;,
-wie immer &lt;strong&gt;20:00 Uhr&lt;/strong&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; in Leipzig. Wie bereits im Blog zu
-lesen, werden die Usergroups ab jetzt immer am ersten Donnerstag im Monat
-stattfinden.&lt;/p&gt;
-&lt;p&gt;Wie beim letzten Mal möchten wir auch im Juli wieder zwei Vorträge präsentieren,
-die sich sowohl mit Javascript-Themen, als auch DevOps-nahen Sachen beschäftigen.&lt;/p&gt;
-&lt;p&gt;Zum einen wird &lt;a href=&quot;http://www.keimlink.de/&quot;&gt;Markus Zapke-Gründemann&lt;/a&gt; einen Vortrag
-über virtuelle Maschinen mit &lt;a href=&quot;http://www.packer.io/&quot;&gt;Packer&lt;/a&gt;,
-&lt;a href=&quot;http://www.vagrantup.com/&quot;&gt;Vagrant&lt;/a&gt; und
-&lt;a href=&quot;http://www.saltstack.com/community/&quot;&gt;Salt&lt;/a&gt; für Entwickler halten.&lt;/p&gt;
-&lt;p&gt;Außerdem wird Martin Läuter einen Talk zum Thema &amp;quot;Googles Closure Compiler –
-Anwendungsszenarien, Ökosystem, Features&amp;quot; geben.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns wie immer auf viele Gäste und vielleicht erträglichere
-Temperaturen als beim letzten mal!&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -719,6 +719,33 @@ wird sicher bald einige neue mithril-Applikationen aus Leipzig geben!&lt;/p&gt;
 &lt;p&gt;Für unser nächstes Treffen sind wir noch offen für Talks. Wer gerne seine
 Erfahrungen und sein Wissen teilen will - einfach melden.&lt;/p&gt;
 &lt;p&gt;Have fun with mithril! :)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>März Treffen 2015</title>
+      <link>http://leipzigjs.github.io/artikel/2015/03/23/maerz-treffen-2015/</link>
+      <pubDate>Mon, 23 Feb 2015 14:37:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2015/03/23/maerz-treffen-2015/</guid>
+      <author></author>
+      <description>&lt;p&gt;Im Februar hatten wir das Vergnügen dem Talk von &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan
+Hoyer&lt;/a&gt; über das neue JS-Frontend-Framework
+&lt;a href=&quot;http://lhorie.github.io/mithril/&quot;&gt;mithril&lt;/a&gt; zu lauschen.&lt;/p&gt;
+&lt;p&gt;Das wahrscheinlich genaue Gegenteil von mithril (klein, extrem flexibel) wird
+&lt;a href=&quot;https://github.com/behrendtio&quot;&gt;Mario Behrendt&lt;/a&gt; im März beleuchten, nämlich
+ember.js (groß, opinionated). Ein ehrlicher Talk über den
+aktuellen Stand von ember.js, dessen Vorzüge, Probleme und Zukunft. Auf welche
+Features kann man sich bei der Entwicklung mit ember.js freuen, welche
+Stolperfallen gilt es zu umschiffen und was ember.js sonst noch kontrovers
+macht - die Erfahrungen mit ember.js nach über 2 Jahren.&lt;/p&gt;
+&lt;p&gt;Dieses mal wird unser Treffen in unserer neuen Location im &lt;a href=&quot;http://leipzig.socialimpactlab.eu/&quot;&gt;Social Impact Lab
+Leipzig&lt;/a&gt; stattfinden:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.google.de/maps/@51.3290269,12.3308661,245m/data=!3m1!1e3&quot;&gt;https://www.google.de/maps/@51.3290269,12.3308661,245m/data=!3m1!1e3&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&lt;span class=&quot;title&quot;&gt;SOCIAL&lt;/span&gt; IMPACT LAB LEIPZIG
+
+Weißenfelser Str. &lt;span class=&quot;number&quot;&gt;65&lt;/span&gt; H (Stelzenhaus)
+&lt;span class=&quot;number&quot;&gt;04229&lt;/span&gt; Leipzig&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Wie immer treffen wir uns am ersten Donnerstag des Monats, diesmal also am
+&lt;strong&gt;5.3.2015&lt;/strong&gt; zur gewohnten Uhrzeit um &lt;strong&gt;20:00 Uhr&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
   </channel>
