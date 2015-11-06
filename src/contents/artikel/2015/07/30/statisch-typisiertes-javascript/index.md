@@ -21,7 +21,7 @@ lot of types can further strengtehn your code base and act as documentation._
 <br/>
 
 Wir sind sehr gespannt - Typisierung ist ja immer ein heiß umkämpftes Thema - und
-freuen uns auf Chris's Ausführungen.
+freuen uns auf Chris' Ausführungen.
 
 Wir hoffen auf mehr Teilnehmer als beim letzten mal, also bitte sagt euren
 Freunden Bescheid!
