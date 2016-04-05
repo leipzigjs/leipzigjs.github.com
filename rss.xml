@@ -5,8 +5,138 @@
     <atom:link href="http://leipzigjs.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://leipzigjs.github.io</link>
     <description>Das Treffen zum Thema Javascript und Node.js in Leipzig</description>
-    <pubDate>Fri, 21 Jun 2013 09:10:00 +0200</pubDate>
+    <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
     <language>de</language>
+    <item>
+      <title>LeipzigJS 2.0 - Testing Javascript</title>
+      <link>http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</link>
+      <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</guid>
+      <author></author>
+      <description>&lt;p&gt;Nach dem sich ca. 10 Entwickler beim ersten Treffen im sublab eingefunden und angeregt diskutiert haben, wollen wir das ganze natürlich fortsetzen. Als regelmäßiger Termin ist jetzt immer der letzte Freitag jeden Monats für LeipzigJS reserviert.&lt;/p&gt;
+&lt;p&gt;Das zweite Treffen findet am &lt;strong&gt;30. November 2012&lt;/strong&gt; in der &lt;a href=&quot;http://www.villa-leipzig.de/&quot;&gt;Villa&lt;/a&gt; statt.&lt;/p&gt;
+&lt;p&gt;Wir wollen uns dem Thema &lt;strong&gt;Javascript testen&lt;/strong&gt; befassen. Dazu haben wir gleich zwei Vorträge geplant&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Node.js testen mit &lt;a href=&quot;http://visionmedia.github.com/mocha&quot;&gt;Mocha&lt;/a&gt; - &lt;a href=&quot;https://github.com/MarioBehrendt&quot;&gt;Mario Behrendt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Frontend testen mit &lt;a href=&quot;https://github.com/airportyh/testem&quot;&gt;Test&amp;#39;em&lt;/a&gt; - &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wir freuen uns auf euer Kommen.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Es wird Zeit</title>
+      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
+      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
+      <author></author>
+      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.&lt;/p&gt;
+&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>LeipzigJS drittes Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</link>
+      <pubDate>Thu, 24 Jan 2013 11:01:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</guid>
+      <author></author>
+      <description>&lt;p&gt;Der Termin zum dritten Treffen der Leipziger Javascript-Usergroup steht fest! Am &lt;strong&gt;Montag, dem 28.01. um 18:00 Uhr&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Treffpunkt ist diesmal das Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; (direkt neben Lucky Bike). Vielen Dank schon einmal an Food.de!&lt;/p&gt;
+&lt;p&gt;Themen werden unter anderen die Webseite der Usergroup, sowie vrsl. &lt;a href=&quot;http://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; und &lt;a href=&quot;http://socket.io/&quot;&gt;Socket.io&lt;/a&gt; sein.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>LeipzigJS 3.0</title>
+      <link>http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</link>
+      <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</guid>
+      <author></author>
+      <description>&lt;p&gt;Beim letzten Treffen der Usergroup kamen leider nur die Hälfte der Teilnehmer des vorherigen Treffens, was sicherlich auch dem Zeitpunkt geschuldet war.&lt;/p&gt;
+&lt;p&gt;Deshalb möchten wir diesmal wieder über Doodle einen Termin finden, der für alle passend ist. Als trage dich bitte schnellst möglich ein: &lt;a href=&quot;http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/href=%22http://doodle.com/nci22t2b72gbxum8&quot;&gt;Zum Doodle&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eure Teilnahme.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Wir laden zum vierten Treffen ein</title>
+      <link>http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</link>
+      <pubDate>Sat, 23 Mar 2013 11:01:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</guid>
+      <author></author>
+      <description>&lt;p&gt;Zum nunmehr vierten mal laden wir alle aus Leipzig und Umgebung (beim letzten Treffen hatten wir Besuch aus Halle :)) ein.
+Treffpunkt ist mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; die Hans-Poeche-Straße 23-25.&lt;/p&gt;
+&lt;p&gt;Wer kommen will ist, herzlich eingeladen sich im &lt;a href=&quot;http://doodle.com/4g4xvavpuctnzpd7&quot;&gt;Doodle&lt;/a&gt; zu verewigen, damit wir möglichst viele Leute zusammenbekommen.&lt;/p&gt;
+&lt;p&gt;Als Redner konnten wir &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin Knofe&lt;/a&gt;
+von den &lt;a href=&quot;http://medienfreunde.com/&quot;&gt;Medienfreunden&lt;/a&gt; gewinnen. Sie werden über das Thema
+&lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; sprechen und sicher
+einige interessante Einblicke bezüglich der Implementierung gewähren.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Termin für viertes Treffen steht fest</title>
+      <link>http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</link>
+      <pubDate>Wed, 27 Mar 2013 14:25:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</guid>
+      <author></author>
+      <description>&lt;p&gt;Am &lt;strong&gt;Montag dem 8. April 2013 um 19:00 Uhr&lt;/strong&gt; finden wir uns wieder im Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; zusammen.&lt;/p&gt;
+&lt;p&gt;Wie bereits angekündigt werden &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin
+Knofe&lt;/a&gt; zum Thema &lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on
+Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
+&lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone&lt;/a&gt; und Frontend-JS-Apps natürlich bei allen gerade heiß gehandelt werden.&lt;/p&gt;
+&lt;p&gt;Wer dabei sein will, kann gerne vorbeischauen! Die bisherige Rekord von 10 Teilnehmern sollte langsam aber sicher fallen
+:)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Eine kleine Zusammenfassung zur Vorstellung von Marionette.js</title>
+      <link>http://leipzigjs.github.io/artikel/2013/04/12/eine-kleine-zusammenfassung-zur-vorstellung-von-marionettejs/</link>
+      <pubDate>Fri, 12 Apr 2013 17:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/12/eine-kleine-zusammenfassung-zur-vorstellung-von-marionettejs/</guid>
+      <author></author>
+      <description>&lt;p&gt;Beim letzten Treffen haben wir wieder ausführlich die Umsetzung von Webanwendungen mit JavaScript diskutiert. Während es die letzten Male vor allem um die Backend-Umsetzung mit Node.js ging, lag diesmal der Schwerpunkt auf der Umsetzung im Frontend. Wie kontrovers das Thema ist, hat sich für mich erst heute wieder beim Lesen eines &lt;a href=&quot;http://www.localytics.com/blog/2013/angularjs-at-localytics&quot;&gt;Blog-Artikels von Localytics&lt;/a&gt; bestätigt.&lt;/p&gt;
+&lt;p&gt;In diesem Artikel werden die Hauptprobleme komplexerer &lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone.js&lt;/a&gt;-Anwendungen beschrieben. Dabei haben sich die Entwickler zu Beginn leider nicht mit der &lt;a href=&quot;http://backbonejs.org/#FAQ-why-backbone&quot;&gt;Philosophie von Backbone.js&lt;/a&gt; und den daraus resultierenden Anforderungen an den Entwickler befasst. Denn im Vergleich zu JavaScript-Frameworks wie &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular.js&lt;/a&gt; oder &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt; gibt Backbone.js kaum Konventionen für die Entwicklung vor und überlässt aus Gründen der Flexibilität wichtige Entscheidungen zur Anwendungsarchitektur dem Entwickler.&lt;/p&gt;
+&lt;p&gt;Hier setzt die Backbone.js-Erweiterung &lt;a href=&quot;http://marionettejs.com/&quot;&gt;Marionette.js&lt;/a&gt; an. Im Zusammenspiel mit Backbone.js bleibt zwar die Flexibilität erhalten, typische Probleme umfangreicherer Anwendungen werden aber schon im Ansatz vermieden.&lt;/p&gt;
+&lt;p&gt;Mit Marionette.js erhält Backbone.js unter anderem Module, die den visuellen Aufbau einer Anwendung durch Regions und Layouts vereinfachen sowie weitere Module zur Ausgabe von Backbone.js-Models und Collections. Das ist aber nur eine kleine Auswahl aus einer ganzen Reihe nützlicher &lt;a href=&quot;https://github.com/marionettejs/backbone.marionette#documentation&quot;&gt;Bestandteile von Marionette.js&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In meinem &lt;a href=&quot;http://renezschoch.de/talks/marionettejs-perfectprops&quot;&gt;Vortrag habe ich an einem realen Projekt meinen Einsatz von Marionette.js beschrieben&lt;/a&gt; und bin froh, zu Beginn die zusätzliche Zeit für den Einstieg investiert zu haben. Ohne die Unterstützung hätte ich bei meinem ersten Backbone.js-Projekt vermutlich einige Fehlentscheidungen getroffen, die ich im späteren Verlauf des Projekts nur sehr aufwändig hätte beheben können.&lt;/p&gt;
+&lt;p&gt;Für komplexere Backbone.js-Anwendungen kann ich deshalb nur jedem Entwickler die Verwendung eines Frameworks empfehlen. Neben Marionette.js sind das vor allem &lt;a href=&quot;http://chaplinjs.org/&quot;&gt;Chaplin.js&lt;/a&gt; und &lt;a href=&quot;http://thoraxjs.org/&quot;&gt;Thorax.js&lt;/a&gt;, von denen jedes &lt;a href=&quot;http://9elements.com/io/index.php/comparison-of-marionette-and-chaplin&quot;&gt;einen etwas anderen Ansatz&lt;/a&gt; verfolgt – &lt;a href=&quot;http://lostechies.com/derickbailey/2012/06/13/why-should-i-use-backbone-marionette-instead-of-%E2%80%A6&quot;&gt;so sieht das auch Derick Bailey&lt;/a&gt;, der Hauptentwickler von Marionette.js.&lt;/p&gt;
+&lt;p&gt;Mich überzeugen vor allem die stetige, zuverlässige Weiterentwicklung sowie die sinnvollen &lt;a href=&quot;http://lostechies.com/derickbailey/category/marionette&quot;&gt;Konzepte und Hintergründe&lt;/a&gt; von Marionette.js. Andere Frameworks wie Angular.js bleiben natürlich trotzdem interessant und sind glücklicherweise auch das geplante Thema unseres nächsten Treffens.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Wir laden zum fünften Treffen ein</title>
+      <link>http://leipzigjs.github.io/artikel/2013/04/17/leipzigjs-5.0/</link>
+      <pubDate>Wed, 17 Apr 2013 10:10:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/17/leipzigjs-5.0/</guid>
+      <author></author>
+      <description>&lt;p&gt;Wir laden euch zum fünften Treffen der Usergroup ein.  Treffpunkt ist einmal
+mehr mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; die 
+Hans-Poeche-Straße 23-25.&lt;/p&gt;
+&lt;p&gt;Wer kommen will, ist herzlich eingeladen sich im
+&lt;a href=&quot;http://doodle.com/nmyctynptacq92fn&quot;&gt;Doodle&lt;/a&gt; zu verewigen.&lt;/p&gt;
+&lt;p&gt;In Anschluss an den spannenden Vortrag von &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; 
+über &lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; stellt &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan
+Hoyer&lt;/a&gt; diesmal AngularJS
+vor. Danach wird es wie immer eine ausführliche Diskussion zu JS und
+nicht-JS-Themen geben.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf eine rege Teilnahme.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Das fünfte Treffen steht bevor</title>
+      <link>http://leipzigjs.github.io/artikel/2013/04/25/das-fuenfte-treffen-steht-bevor/</link>
+      <pubDate>Thu, 25 Apr 2013 11:11:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/25/das-fuenfte-treffen-steht-bevor/</guid>
+      <author></author>
+      <description>&lt;p&gt;Der nächste Termin für unser monatliches Javascript Usergroup-Treffen steht
+fest:&lt;/p&gt;
+&lt;p&gt;Am &lt;strong&gt;13. Mai um 19:00 Uhr&lt;/strong&gt;, wie immer im Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt;
+in der Hans-Poeche-Straße 23, Eingang direkt rechts vom Lucky Bike-Eingang.&lt;/p&gt;
+&lt;p&gt;Thema wird ein Talk von &lt;a href=&quot;http://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt; sein,
+der nach dem &lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt;-Talk vom letzten Treffen
+die Vorzüge von &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular&lt;/a&gt; beim entwickeln einer ähnlichen
+Applikation aufzeigen will.&lt;/p&gt;
+&lt;p&gt;Zu finden ist das Event außerdem auch bei &lt;a href=&quot;http://lanyrd.com/2013/javascript-usergroup-leipzig-treffen-mai/&quot;&gt;Lanyrd&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Wir laden zum sechsten Treffen ein</title>
       <link>http://leipzigjs.github.io/artikel/2013/06/21/leipzigjs-6.0/</link>
@@ -44,23 +174,26 @@ damit wir für alle eine akzeptable Zeit finden können:&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Achtes Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2013/10/09/achtes-treffen/</link>
-      <pubDate>Wed, 09 Oct 2013 11:11:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/10/09/achtes-treffen/</guid>
+      <title>Neues Rekord-Aufgebot</title>
+      <link>http://leipzigjs.github.io/artikel/2013/09/20/neues-rekord-aufgebot/</link>
+      <pubDate>Fri, 20 Sep 2013 07:53:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/09/20/neues-rekord-aufgebot/</guid>
       <author></author>
-      <description>&lt;p&gt;Das 8. Treffen steht an. Diesmal wollen wir in einer &lt;a href=&quot;http://en.wikipedia.org/wiki/Lightning_talk&quot;&gt;Lightning-Talk-Session&lt;/a&gt;
-allen die Chance geben, spannende eigene oder fremde Projekte oder Ideen
-vorzustellen. Dafür bekommt jeder Vortragende zehn Minuten (bei übermäßiger 
-Anzahl an Vortrageneden auch weniger) Zeit.&lt;/p&gt;
-&lt;p&gt;Am Ende werden die spannendsten Vorträge erwählt. Diese sollten dann auf einem
-der folgenden Treffen als Full-Featured-Talk gehalten werden.&lt;/p&gt;
-&lt;p&gt;Also, bereitet etwas interessantes aus der JS-Welt vor, mit oder ohne Folien,
-ganz egal. Wer jetzt schon weiß, dass er einen Vortrag halten will, kann das
-gerne schon mal in die Kommantare zu diesem Post schreiben.&lt;/p&gt;
-&lt;p&gt;Termin für das Treffen ist Montag, 21.10.
-Ort ist wieder einmal &lt;a href=&quot;http://food.de/&quot;&gt;food.de&lt;/a&gt;, Hans-Poeche-Straße 23-25, Nähe Hauptbahnhof.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf spannende Vorträge.&lt;/p&gt;
+      <description>&lt;p&gt;Gestern fand unser siebentes Treffen der JavaScript-Usergroup Leipzig statt und
+mit rund &lt;strong&gt;30 Teilnehmern&lt;/strong&gt; haben wir den alten Rekord um Längen geschlagen! Neben
+bekannten und neuen JavaScript-Enthusiasten hatten wir auch die Jungs von der
+&lt;a href=&quot;http://leipzig.onruby.de/&quot;&gt;Leipzig on Rails&lt;/a&gt; Usergroup vor Ort.&lt;/p&gt;
+&lt;p&gt;Näher eingehen möchte ich noch auf den Talk von
+&lt;a href=&quot;https://github.com/it-ony&quot;&gt;Tony&lt;/a&gt; über das Framework
+&lt;a href=&quot;https://github.com/rappid/rAppid.js&quot;&gt;rAppid.js&lt;/a&gt;, das er zusammen mit einem
+Kollegen entwickelt hat. Viele der Teilnehmer waren positiv angetan von der
+Alternative zu &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt; und
+&lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular.js&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wer also Interesse hat einem Framework &lt;em&gt;aus Leipzig&lt;/em&gt; zu helfen, der kann gerne auf
+&lt;a href=&quot;https://github.com/rappid/rAppid.js&quot;&gt;Github&lt;/a&gt; vorbeischauen, oder sich via
+Twitter &lt;a href=&quot;https://twitter.com/rappidjs&quot;&gt;@rappidjs&lt;/a&gt; melden. Neben Entwicklern sind
+auch Marketing-Fachleute und Designer gerne gesehen ;)&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf das nächste Treffen, voraussichtlich Ende Oktober!&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -86,81 +219,23 @@ Nähe Hauptbahnhof.&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Neues Rekord-Aufgebot</title>
-      <link>http://leipzigjs.github.io/artikel/2013/09/20/neues-rekord-aufgebot/</link>
-      <pubDate>Fri, 20 Sep 2013 07:53:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/09/20/neues-rekord-aufgebot/</guid>
+      <title>Achtes Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2013/10/09/achtes-treffen/</link>
+      <pubDate>Wed, 09 Oct 2013 11:11:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/10/09/achtes-treffen/</guid>
       <author></author>
-      <description>&lt;p&gt;Gestern fand unser siebentes Treffen der JavaScript-Usergroup Leipzig statt und
-mit rund &lt;strong&gt;30 Teilnehmern&lt;/strong&gt; haben wir den alten Rekord um Längen geschlagen! Neben
-bekannten und neuen JavaScript-Enthusiasten hatten wir auch die Jungs von der
-&lt;a href=&quot;http://leipzig.onruby.de/&quot;&gt;Leipzig on Rails&lt;/a&gt; Usergroup vor Ort.&lt;/p&gt;
-&lt;p&gt;Näher eingehen möchte ich noch auf den Talk von
-&lt;a href=&quot;https://github.com/it-ony&quot;&gt;Tony&lt;/a&gt; über das Framework
-&lt;a href=&quot;https://github.com/rappid/rAppid.js&quot;&gt;rAppid.js&lt;/a&gt;, das er zusammen mit einem
-Kollegen entwickelt hat. Viele der Teilnehmer waren positiv angetan von der
-Alternative zu &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt; und
-&lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular.js&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Wer also Interesse hat einem Framework &lt;em&gt;aus Leipzig&lt;/em&gt; zu helfen, der kann gerne auf
-&lt;a href=&quot;https://github.com/rappid/rAppid.js&quot;&gt;Github&lt;/a&gt; vorbeischauen, oder sich via
-Twitter &lt;a href=&quot;https://twitter.com/rappidjs&quot;&gt;@rappidjs&lt;/a&gt; melden. Neben Entwicklern sind
-auch Marketing-Fachleute und Designer gerne gesehen ;)&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf das nächste Treffen, voraussichtlich Ende Oktober!&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Wir laden zum vierten Treffen ein</title>
-      <link>http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</link>
-      <pubDate>Sat, 23 Mar 2013 11:01:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/23/wir-laden-zum-vierten-treffen-ein/</guid>
-      <author></author>
-      <description>&lt;p&gt;Zum nunmehr vierten mal laden wir alle aus Leipzig und Umgebung (beim letzten Treffen hatten wir Besuch aus Halle :)) ein.
-Treffpunkt ist mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; die Hans-Poeche-Straße 23-25.&lt;/p&gt;
-&lt;p&gt;Wer kommen will ist, herzlich eingeladen sich im &lt;a href=&quot;http://doodle.com/4g4xvavpuctnzpd7&quot;&gt;Doodle&lt;/a&gt; zu verewigen, damit wir möglichst viele Leute zusammenbekommen.&lt;/p&gt;
-&lt;p&gt;Als Redner konnten wir &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin Knofe&lt;/a&gt;
-von den &lt;a href=&quot;http://medienfreunde.com/&quot;&gt;Medienfreunden&lt;/a&gt; gewinnen. Sie werden über das Thema
-&lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; sprechen und sicher
-einige interessante Einblicke bezüglich der Implementierung gewähren.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Termin für viertes Treffen steht fest</title>
-      <link>http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</link>
-      <pubDate>Wed, 27 Mar 2013 14:25:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/03/27/termin-fuer-viertes-treffen-steht-fest/</guid>
-      <author></author>
-      <description>&lt;p&gt;Am &lt;strong&gt;Montag dem 8. April 2013 um 19:00 Uhr&lt;/strong&gt; finden wir uns wieder im Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; zusammen.&lt;/p&gt;
-&lt;p&gt;Wie bereits angekündigt werden &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; und &lt;a href=&quot;http://twitter.com/videosynthesis&quot;&gt;Benjamin
-Knofe&lt;/a&gt; zum Thema &lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; in Verbindung mit &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on
-Rails&lt;/a&gt; sprechen. Wir sind sehr gespannt auf die Ausführungen, da
-&lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone&lt;/a&gt; und Frontend-JS-Apps natürlich bei allen gerade heiß gehandelt werden.&lt;/p&gt;
-&lt;p&gt;Wer dabei sein will, kann gerne vorbeischauen! Die bisherige Rekord von 10 Teilnehmern sollte langsam aber sicher fallen
-:)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Erstes Treffen 2014</title>
-      <link>http://leipzigjs.github.io/artikel/2013/12/09/erstes-treffen-2014/</link>
-      <pubDate>Mon, 09 Dec 2013 09:33:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/12/09/erstes-treffen-2014/</guid>
-      <author></author>
-      <description>&lt;p&gt;Wir freuen uns zum ersten Treffen im Jahr 2014 laden zu dürfen. Termin ist der
-&lt;strong&gt;14.01.2014, 20 Uhr&lt;/strong&gt;, wie immer bei den Jungs von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Als Talks haben wir diesmal:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Einführung in Golang und dessen Async-Handling&lt;/li&gt;
-&lt;li&gt;Async in Javascript mit Promises und Generatoren&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Danach möchten wir noch etwas Zeit nutzen, um eine Diskussion über das Thema
-&amp;quot;Async&amp;quot; anzuregen und verschiedene Optionen und Best-Practises besprechen.&lt;/p&gt;
-&lt;p&gt;Noch einmal alle Informationen zum Event gibt es kompakt auf der &lt;a href=&quot;http://lanyrd.com/ctqpd&quot;&gt;Lanyrd
-Seite&lt;/a&gt;. Wer es bisher noch nicht getan hat, sollte
-außerdem jetzt den &lt;a href=&quot;https://www.google.com/calendar/embed?src=heimke.net_m4mcqp0jn71tc8sid2aeij0d20@group.calendar.google.com&amp;amp;ctz=Europe/Berlin&quot;&gt;Google
-Kalender&lt;/a&gt;
-der Usergroup abonnieren, um die laufenen Events direkt im Kalender einsehen zu
-können.&lt;/p&gt;
-&lt;p&gt;Lightning talks sind wie immer gerne willkommen, einen Slot können wir auf jeden
-Fall noch anbieten, falls jemand gerne ein Thema vorstellen möchte!&lt;/p&gt;
+      <description>&lt;p&gt;Das 8. Treffen steht an. Diesmal wollen wir in einer &lt;a href=&quot;http://en.wikipedia.org/wiki/Lightning_talk&quot;&gt;Lightning-Talk-Session&lt;/a&gt;
+allen die Chance geben, spannende eigene oder fremde Projekte oder Ideen
+vorzustellen. Dafür bekommt jeder Vortragende zehn Minuten (bei übermäßiger 
+Anzahl an Vortrageneden auch weniger) Zeit.&lt;/p&gt;
+&lt;p&gt;Am Ende werden die spannendsten Vorträge erwählt. Diese sollten dann auf einem
+der folgenden Treffen als Full-Featured-Talk gehalten werden.&lt;/p&gt;
+&lt;p&gt;Also, bereitet etwas interessantes aus der JS-Welt vor, mit oder ohne Folien,
+ganz egal. Wer jetzt schon weiß, dass er einen Vortrag halten will, kann das
+gerne schon mal in die Kommantare zu diesem Post schreiben.&lt;/p&gt;
+&lt;p&gt;Termin für das Treffen ist Montag, 21.10.
+Ort ist wieder einmal &lt;a href=&quot;http://food.de/&quot;&gt;food.de&lt;/a&gt;, Hans-Poeche-Straße 23-25, Nähe Hauptbahnhof.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf spannende Vorträge.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -261,420 +336,28 @@ für das 11te Treffen.&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Eine kleine Zusammenfassung zur Vorstellung von Marionette.js</title>
-      <link>http://leipzigjs.github.io/artikel/2013/04/12/eine-kleine-zusammenfassung-zur-vorstellung-von-marionettejs/</link>
-      <pubDate>Fri, 12 Apr 2013 17:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/12/eine-kleine-zusammenfassung-zur-vorstellung-von-marionettejs/</guid>
+      <title>Erstes Treffen 2014</title>
+      <link>http://leipzigjs.github.io/artikel/2013/12/09/erstes-treffen-2014/</link>
+      <pubDate>Mon, 09 Dec 2013 09:33:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/12/09/erstes-treffen-2014/</guid>
       <author></author>
-      <description>&lt;p&gt;Beim letzten Treffen haben wir wieder ausführlich die Umsetzung von Webanwendungen mit JavaScript diskutiert. Während es die letzten Male vor allem um die Backend-Umsetzung mit Node.js ging, lag diesmal der Schwerpunkt auf der Umsetzung im Frontend. Wie kontrovers das Thema ist, hat sich für mich erst heute wieder beim Lesen eines &lt;a href=&quot;http://www.localytics.com/blog/2013/angularjs-at-localytics&quot;&gt;Blog-Artikels von Localytics&lt;/a&gt; bestätigt.&lt;/p&gt;
-&lt;p&gt;In diesem Artikel werden die Hauptprobleme komplexerer &lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone.js&lt;/a&gt;-Anwendungen beschrieben. Dabei haben sich die Entwickler zu Beginn leider nicht mit der &lt;a href=&quot;http://backbonejs.org/#FAQ-why-backbone&quot;&gt;Philosophie von Backbone.js&lt;/a&gt; und den daraus resultierenden Anforderungen an den Entwickler befasst. Denn im Vergleich zu JavaScript-Frameworks wie &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular.js&lt;/a&gt; oder &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt; gibt Backbone.js kaum Konventionen für die Entwicklung vor und überlässt aus Gründen der Flexibilität wichtige Entscheidungen zur Anwendungsarchitektur dem Entwickler.&lt;/p&gt;
-&lt;p&gt;Hier setzt die Backbone.js-Erweiterung &lt;a href=&quot;http://marionettejs.com/&quot;&gt;Marionette.js&lt;/a&gt; an. Im Zusammenspiel mit Backbone.js bleibt zwar die Flexibilität erhalten, typische Probleme umfangreicherer Anwendungen werden aber schon im Ansatz vermieden.&lt;/p&gt;
-&lt;p&gt;Mit Marionette.js erhält Backbone.js unter anderem Module, die den visuellen Aufbau einer Anwendung durch Regions und Layouts vereinfachen sowie weitere Module zur Ausgabe von Backbone.js-Models und Collections. Das ist aber nur eine kleine Auswahl aus einer ganzen Reihe nützlicher &lt;a href=&quot;https://github.com/marionettejs/backbone.marionette#documentation&quot;&gt;Bestandteile von Marionette.js&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;In meinem &lt;a href=&quot;http://renezschoch.de/talks/marionettejs-perfectprops&quot;&gt;Vortrag habe ich an einem realen Projekt meinen Einsatz von Marionette.js beschrieben&lt;/a&gt; und bin froh, zu Beginn die zusätzliche Zeit für den Einstieg investiert zu haben. Ohne die Unterstützung hätte ich bei meinem ersten Backbone.js-Projekt vermutlich einige Fehlentscheidungen getroffen, die ich im späteren Verlauf des Projekts nur sehr aufwändig hätte beheben können.&lt;/p&gt;
-&lt;p&gt;Für komplexere Backbone.js-Anwendungen kann ich deshalb nur jedem Entwickler die Verwendung eines Frameworks empfehlen. Neben Marionette.js sind das vor allem &lt;a href=&quot;http://chaplinjs.org/&quot;&gt;Chaplin.js&lt;/a&gt; und &lt;a href=&quot;http://thoraxjs.org/&quot;&gt;Thorax.js&lt;/a&gt;, von denen jedes &lt;a href=&quot;http://9elements.com/io/index.php/comparison-of-marionette-and-chaplin&quot;&gt;einen etwas anderen Ansatz&lt;/a&gt; verfolgt – &lt;a href=&quot;http://lostechies.com/derickbailey/2012/06/13/why-should-i-use-backbone-marionette-instead-of-%E2%80%A6&quot;&gt;so sieht das auch Derick Bailey&lt;/a&gt;, der Hauptentwickler von Marionette.js.&lt;/p&gt;
-&lt;p&gt;Mich überzeugen vor allem die stetige, zuverlässige Weiterentwicklung sowie die sinnvollen &lt;a href=&quot;http://lostechies.com/derickbailey/category/marionette&quot;&gt;Konzepte und Hintergründe&lt;/a&gt; von Marionette.js. Andere Frameworks wie Angular.js bleiben natürlich trotzdem interessant und sind glücklicherweise auch das geplante Thema unseres nächsten Treffens.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Wir laden zum fünften Treffen ein</title>
-      <link>http://leipzigjs.github.io/artikel/2013/04/17/leipzigjs-5.0/</link>
-      <pubDate>Wed, 17 Apr 2013 10:10:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/17/leipzigjs-5.0/</guid>
-      <author></author>
-      <description>&lt;p&gt;Wir laden euch zum fünften Treffen der Usergroup ein.  Treffpunkt ist einmal
-mehr mit freundlicher Unterstützung von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; die 
-Hans-Poeche-Straße 23-25.&lt;/p&gt;
-&lt;p&gt;Wer kommen will, ist herzlich eingeladen sich im
-&lt;a href=&quot;http://doodle.com/nmyctynptacq92fn&quot;&gt;Doodle&lt;/a&gt; zu verewigen.&lt;/p&gt;
-&lt;p&gt;In Anschluss an den spannenden Vortrag von &lt;a href=&quot;http://twitter.com/prop79&quot;&gt;René Zschoch&lt;/a&gt; 
-über &lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt; stellt &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan
-Hoyer&lt;/a&gt; diesmal AngularJS
-vor. Danach wird es wie immer eine ausführliche Diskussion zu JS und
-nicht-JS-Themen geben.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine rege Teilnahme.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Das fünfte Treffen steht bevor</title>
-      <link>http://leipzigjs.github.io/artikel/2013/04/25/das-fuenfte-treffen-steht-bevor/</link>
-      <pubDate>Thu, 25 Apr 2013 11:11:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/04/25/das-fuenfte-treffen-steht-bevor/</guid>
-      <author></author>
-      <description>&lt;p&gt;Der nächste Termin für unser monatliches Javascript Usergroup-Treffen steht
-fest:&lt;/p&gt;
-&lt;p&gt;Am &lt;strong&gt;13. Mai um 19:00 Uhr&lt;/strong&gt;, wie immer im Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt;
-in der Hans-Poeche-Straße 23, Eingang direkt rechts vom Lucky Bike-Eingang.&lt;/p&gt;
-&lt;p&gt;Thema wird ein Talk von &lt;a href=&quot;http://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt; sein,
-der nach dem &lt;a href=&quot;http://marionettejs.com/&quot;&gt;MarionetteJS&lt;/a&gt;-Talk vom letzten Treffen
-die Vorzüge von &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular&lt;/a&gt; beim entwickeln einer ähnlichen
-Applikation aufzeigen will.&lt;/p&gt;
-&lt;p&gt;Zu finden ist das Event außerdem auch bei &lt;a href=&quot;http://lanyrd.com/2013/javascript-usergroup-leipzig-treffen-mai/&quot;&gt;Lanyrd&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>LeipzigJS 3.0</title>
-      <link>http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</link>
-      <pubDate>Mon, 21 Jan 2013 14:22:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/</guid>
-      <author></author>
-      <description>&lt;p&gt;Beim letzten Treffen der Usergroup kamen leider nur die Hälfte der Teilnehmer des vorherigen Treffens, was sicherlich auch dem Zeitpunkt geschuldet war.&lt;/p&gt;
-&lt;p&gt;Deshalb möchten wir diesmal wieder über Doodle einen Termin finden, der für alle passend ist. Als trage dich bitte schnellst möglich ein: &lt;a href=&quot;http://leipzigjs.github.io/artikel/2013/01/21/leipzigjs-3.0/href=%22http://doodle.com/nci22t2b72gbxum8&quot;&gt;Zum Doodle&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eure Teilnahme.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>LeipzigJS drittes Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</link>
-      <pubDate>Thu, 24 Jan 2013 11:01:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2013/01/24/leipzigjs-drittes-treffen/</guid>
-      <author></author>
-      <description>&lt;p&gt;Der Termin zum dritten Treffen der Leipziger Javascript-Usergroup steht fest! Am &lt;strong&gt;Montag, dem 28.01. um 18:00 Uhr&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Treffpunkt ist diesmal das Büro von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; (direkt neben Lucky Bike). Vielen Dank schon einmal an Food.de!&lt;/p&gt;
-&lt;p&gt;Themen werden unter anderen die Webseite der Usergroup, sowie vrsl. &lt;a href=&quot;http://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; und &lt;a href=&quot;http://socket.io/&quot;&gt;Socket.io&lt;/a&gt; sein.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Review Januar-Treffen 2014</title>
-      <link>http://leipzigjs.github.io/artikel/2014/01/15/review-januar-treffen-2014/</link>
-      <pubDate>Wed, 15 Jan 2014 10:52:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/01/15/review-januar-treffen-2014/</guid>
-      <author></author>
-      <description>&lt;p&gt;Das erste Treffen im neuen Jahr war wieder gut besucht, vielen Dank erst einmal
-an alle Teilnehmer! Der erste Vortrag zum Thema &lt;a href=&quot;http://www.golang.org/&quot;&gt;Go&lt;/a&gt;
-wurde heiß diskutiert und auch beim zweiten Teil des Abends, zum Thema
-Generatoren in &lt;a href=&quot;http://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; gab es einiges an Diskussion.&lt;/p&gt;
-&lt;p&gt;Sowohl die &lt;a href=&quot;https://speakerdeck.com/behrendtio/einfuhrung-in-go&quot;&gt;Slides&lt;/a&gt; des
-ersten, als auch der &lt;a href=&quot;https://github.com/StephanHoyer/generators-talk&quot;&gt;Code&lt;/a&gt; des
-zweiten Vortrags sind online verfügbar, für alle bei denen Interesse geweckt
-wurde.&lt;/p&gt;
-&lt;p&gt;Das nächste Treffen wird voraussichtlich im Februar stattfinden, ein
-entsprechendes Doodle werden wir Ende Januar veröffentlichen. Wer gerne einen
-Vortrag halten will, kann sich wie immer bei uns melden, wir freuen uns über
-jeden Talk.&lt;/p&gt;
-&lt;p&gt;Bis zum nächsten mal!&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Terminfindung Treffen April</title>
-      <link>http://leipzigjs.github.io/artikel/2014/03/26/terminfindung-treffen-april/</link>
-      <pubDate>Wed, 26 Mar 2014 16:30:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/03/26/terminfindung-treffen-april/</guid>
-      <author></author>
-      <description>&lt;p&gt;Leider haben wir es im März nicht geschafft ein Treffen zu veranstalten, doch ab
-April werden wir wieder in den monatlichen Rhythmus einsteigen.&lt;/p&gt;
-&lt;p&gt;Wie immer haben wir zur Terminfindung ein Doodle erstellt, damit möglichst viele
-Leute kommen können. Trage dich daher bitte
-&lt;a href=&quot;http://doodle.com/ekvrcmc2cfab4tth&quot;&gt;hier&lt;/a&gt; ein.&lt;/p&gt;
-&lt;p&gt;Wir haben bereits Vorschläge für Talks, aber noch keine Slots vergeben. Wer also
-gerne einen Vortrag halten will, kann sich gerne via Twitter oder auf der
-Mailingliste melden.&lt;/p&gt;
-&lt;p&gt;Happy coding!&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Treffen Februar</title>
-      <link>http://leipzigjs.github.io/artikel/2014/02/07/treffen-februar/</link>
-      <pubDate>Fri, 07 Feb 2014 09:30:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/02/07/treffen-februar/</guid>
-      <author></author>
-      <description>&lt;p&gt;Auf zum zweiten Treffen in diesem Jahr am 27.02.2014 um 20 Uhr. Geplant sind dieses mal wieder zwei
-spannende Vorträge:&lt;/p&gt;
+      <description>&lt;p&gt;Wir freuen uns zum ersten Treffen im Jahr 2014 laden zu dürfen. Termin ist der
+&lt;strong&gt;14.01.2014, 20 Uhr&lt;/strong&gt;, wie immer bei den Jungs von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Als Talks haben wir diesmal:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/model-io/model.io&quot;&gt;model.io&lt;/a&gt; - Client/Server-Model-Synchronisation mit
-&lt;a href=&quot;http://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; - Stephan Hoyer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/it-ony/jscop&quot;&gt;jscop&lt;/a&gt; - Statische Codeanalyse Tool für
-besseren Javascript-Code - Tony Findeisen&lt;/li&gt;
+&lt;li&gt;Einführung in Golang und dessen Async-Handling&lt;/li&gt;
+&lt;li&gt;Async in Javascript mit Promises und Generatoren&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Wie hoffen auf eine wiedermal rege Teilnahme.&lt;/p&gt;
-&lt;p&gt;Das Treffen wird wie immer bei unsersem großzügigem Location-Sponsor
-&lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; (&lt;a href=&quot;https://maps.google.com/maps?q=food.de+%2F%2F+food+direkt+GmbH&amp;amp;ie=UTF8&amp;amp;ll=51.346925,12.388909&amp;amp;spn=0.011674,0.009849&amp;amp;fb=1&amp;amp;hq=food.de+hans+poeche+stra%C3%9Fe+leipzig&amp;amp;cid=15222040660717068586&amp;amp;t=h&amp;amp;z=16&amp;amp;iwloc=A&quot;&gt;Maps Link&lt;/a&gt;) stattfinden.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf euch.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Treffen April</title>
-      <link>http://leipzigjs.github.io/artikel/2014/04/07/treffen-april/</link>
-      <pubDate>Mon, 07 Apr 2014 10:30:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/04/07/treffen-april/</guid>
-      <author></author>
-      <description>&lt;p&gt;Nach einem Monat ohne leipzigjs ist nun das dritte Treffen am 15.04.2014 um 20
-Uhr angesetzt.&lt;/p&gt;
-&lt;p&gt;Dieses mal haben wir keine Vorträge geplant. Wir wollen die Runde für
-Erfahrungsaustausch und besseres Kennenlernen nutzen.&lt;/p&gt;
-&lt;p&gt;Evtl. kommen wir ja auch einmal zum allseits beliebtem Editor-War. Wie immer hoffen wir auf eine rege Teilnahme.&lt;/p&gt;
-&lt;p&gt;Das Treffen wird abermals bei unsersem großzügigem Location-Sponsor
-&lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; (&lt;a href=&quot;https://maps.google.com/maps?q=food.de+%2F%2F+food+direkt+GmbH&amp;amp;ie=UTF8&amp;amp;ll=51.346925,12.388909&amp;amp;spn=0.011674,0.009849&amp;amp;fb=1&amp;amp;hq=food.de+hans+poeche+stra%C3%9Fe+leipzig&amp;amp;cid=15222040660717068586&amp;amp;t=h&amp;amp;z=16&amp;amp;iwloc=A&quot;&gt;Maps Link&lt;/a&gt;) stattfinden.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf euch.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Mai-Treffen mit Vorträgen aus Köln</title>
-      <link>http://leipzigjs.github.io/artikel/2014/05/02/mai-treffen-mit-vortraegen-aus-koeln/</link>
-      <pubDate>Fri, 02 May 2014 13:40:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/05/02/mai-treffen-mit-vortraegen-aus-koeln/</guid>
-      <author></author>
-      <description>&lt;p&gt;Nachdem wir beim letzten Treffen eine kleine Talk-Pause eingelegt und eine
-Diskussionsrunde veranstaltet haben, wird es beim Mai-Treffen wieder mehrere
-Vorträge geben. Diesmal freuen wir uns auf Speaker aus Köln, die extra anreisen,
-um uns ihre Talks zu präsentieren!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/bascht&quot;&gt;@bascht&lt;/a&gt; wird unser Wissen im Bereich DevOps
-verbessern, mit dem Thema &amp;quot;What is a »full« stack, anyways?&amp;quot;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/mchacki&quot;&gt;@mchacki&lt;/a&gt;&amp;#39;s Talk geht dann wieder in die
-Entwickler-Richtung mit dem Thema &amp;quot;Rapid API Development&amp;quot;, bei dem er das
-serverseitige Javascript-Framework &lt;a href=&quot;https://www.arangodb.org/foxx&quot;&gt;Foxx&lt;/a&gt; vorstellen wird.&lt;/p&gt;
-&lt;p&gt;Da unsere Speaker anreisen, machen wir dieses Monat kein Doodle, sondern legen
-den Termin direkt fest: &lt;strong&gt;Donnerstag der 22.05.2014&lt;/strong&gt;, wie immer &lt;strong&gt;20 Uhr&lt;/strong&gt; bei den
-Jungs von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; in
-Leipzig. Für alle Neuankömmlinge: Der Eingang ist rechts neben dem von Lucky
-Bike und dann einmal die Treppen bis ganz hoch :)&lt;/p&gt;
-&lt;p&gt;Wir hoffen auf ein volles Haus!&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Review Mai-Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2014/05/26/review-mai-treffen/</link>
-      <pubDate>Mon, 26 May 2014 11:30:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/05/26/review-mai-treffen/</guid>
-      <author></author>
-      <description>&lt;p&gt;Das Treffen am Donnerstag war wieder mal sehr gut besucht.
-Die Gäste aus Köln konnten sich über volles Haus und die Zuhörer
-über zwei hochkarätige und teils amüsante Vorträge freuen.&lt;/p&gt;
-&lt;p&gt;Da wäre zunächst &lt;a href=&quot;https://twitter.com/bascht&quot;&gt;@bascht&lt;/a&gt;s Vortrag
-&lt;a href=&quot;https://speakerdeck.com/bascht/what-is-a-full-stack-anyways&quot;&gt;&amp;quot;What is a »full« stack, anyways?&amp;quot;&lt;/a&gt;
-über DevOps und warum auch Infrastruktur Code ist.&lt;/p&gt;
-&lt;p&gt;Danach folgte &lt;a href=&quot;https://twitter.com/mchacki&quot;&gt;@mchacki&lt;/a&gt;s sehr informativer
-&lt;a href=&quot;http://de.slideshare.net/arangodb/foxx&quot;&gt;Vortrag&lt;/a&gt;
-über das auf &lt;a href=&quot;https://www.arangodb.org/&quot;&gt;arangodb&lt;/a&gt; aufsetzende REST-Framework
-&lt;a href=&quot;https://www.arangodb.org/foxx&quot;&gt;Foxx&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Wir danken den Speakern fürs Vortragen und allen Anderen fürs kommen.&lt;/p&gt;
-&lt;p&gt;Wir haben uns nun dazu entschieden, einen festen Termin im Monat für die
-&lt;a href=&quot;http://leipzigjs.github.io/&quot;&gt;@leipzigjs&lt;/a&gt; zu setzen. Wir haben uns für den letzten (also 4ten und
-manchamal auch 5ten) Donnerstag im Monat entschieden.&lt;/p&gt;
-&lt;p&gt;Der nächste Termin findet also am Donnerstag den 26.06. statt. Es gibt einen
-&lt;a href=&quot;https://www.google.com/calendar/embed?src=heimke.net_m4mcqp0jn71tc8sid2aeij0d20@group.calendar.google.com&amp;amp;ctz=Europe/Berlin&quot;&gt;iCal&lt;/a&gt;,
-der den aktuellen Termin enthällt.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns aufs nächste Treffen, für das wir noch Vorträge suchen. Postet
-in die Kommentare oder twittert an &lt;a href=&quot;https://twitter.com/leipzigjs&quot;&gt;@leipzigjs&lt;/a&gt;,
-wenn ihr etwas vortragen wollt.&lt;/p&gt;
-&lt;h2 id=&quot;achtung-terminkorrektur&quot;&gt;Achtung - Terminkorrektur&lt;/h2&gt;
-&lt;p&gt;Wir werden nun doch nicht den letzten sondern den ersten Donnerstag im Monat wählen, da
-es ansonsten zu einer Überschneidung mit der PHP-Usergroup gibt. An der nehmen einige
-Leute teil, deren Kommen uns wichtig ist ;)&lt;/p&gt;
-&lt;p&gt;Nächstes Treffen ist dann also erst am 3.7. da nächste Woche etwas
-kurzfristig wäre.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Nächster Termin</title>
-      <link>http://leipzigjs.github.io/artikel/2014/05/27/naechster-termin/</link>
-      <pubDate>Tue, 27 May 2014 16:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/05/27/naechster-termin/</guid>
-      <author></author>
-      <description>&lt;p&gt;Wir werden nun doch nicht den letzten sondern den ersten Donnerstag im Monat wählen, da
-es ansonsten zu einer Überschneidung mit der PHP-Usergroup gibt. An der nehmen einige
-Leute teil, deren Kommen uns wichtig ist ;)&lt;/p&gt;
-&lt;p&gt;Nächstes Treffen ist dann also erst am 3.7. da nächste Woche etwas
-kurzfristig wäre.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Juli Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2014/06/13/juli-treffen/</link>
-      <pubDate>Fri, 13 Jun 2014 13:15:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/06/13/juli-treffen/</guid>
-      <author></author>
-      <description>&lt;p&gt;Unser Juli-Treffen steht an - diesmal mit einem festen Datum, dem &lt;strong&gt;3.7.2014&lt;/strong&gt;,
-wie immer &lt;strong&gt;20:00 Uhr&lt;/strong&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; in Leipzig. Wie bereits im Blog zu
-lesen, werden die Usergroups ab jetzt immer am ersten Donnerstag im Monat
-stattfinden.&lt;/p&gt;
-&lt;p&gt;Wie beim letzten Mal möchten wir auch im Juli wieder zwei Vorträge präsentieren,
-die sich sowohl mit Javascript-Themen, als auch DevOps-nahen Sachen beschäftigen.&lt;/p&gt;
-&lt;p&gt;Zum einen wird &lt;a href=&quot;http://www.keimlink.de/&quot;&gt;Markus Zapke-Gründemann&lt;/a&gt; einen Vortrag
-über virtuelle Maschinen mit &lt;a href=&quot;http://www.packer.io/&quot;&gt;Packer&lt;/a&gt;,
-&lt;a href=&quot;http://www.vagrantup.com/&quot;&gt;Vagrant&lt;/a&gt; und
-&lt;a href=&quot;http://www.saltstack.com/community/&quot;&gt;Salt&lt;/a&gt; für Entwickler halten.&lt;/p&gt;
-&lt;p&gt;Außerdem wird Martin Läuter einen Talk zum Thema &amp;quot;Googles Closure Compiler –
-Anwendungsszenarien, Ökosystem, Features&amp;quot; geben.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns wie immer auf viele Gäste und vielleicht erträglichere
-Temperaturen als beim letzten mal!&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Review Juli-Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2014/07/26/review-juli-treffen/</link>
-      <pubDate>Wed, 09 Jul 2014 14:30:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/07/26/review-juli-treffen/</guid>
-      <author></author>
-      <description>&lt;p&gt;Der erste Talk des Treffens am 03.07 schloss perfekt an den Talk von
-&lt;a href=&quot;https://twitter.com/bascht&quot;&gt;@bascht&lt;/a&gt; aus dem letzten Treffen an.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.keimlink.de/&quot;&gt;Markus Zapke-Gründemann&lt;/a&gt; hielt einen Vortrag
-über virtuelle Maschinen mit &lt;a href=&quot;http://www.packer.io/&quot;&gt;Packer&lt;/a&gt;,
-&lt;a href=&quot;http://www.vagrantup.com/&quot;&gt;Vagrant&lt;/a&gt; und
-&lt;a href=&quot;http://www.saltstack.com/community/&quot;&gt;Salt&lt;/a&gt; für Entwickler. &lt;/p&gt;
-&lt;p&gt;Das entsprechende Repo zum selbst ausprobieren findet ihr
-&lt;a href=&quot;https://bitbucket.org/keimlink/pvs-example&quot;&gt;hier&lt;/a&gt;. Die Folien eines
-equivalenten Vortrags sind auf
-&lt;a href=&quot;https://speakerdeck.com/keimlink/virtuelle-maschinen-mit-packer-vagrant-und-salt-bauen&quot;&gt;speakerdeck&lt;/a&gt;
-verfügbar.&lt;/p&gt;
-&lt;p&gt;Anm. d. R.: Er hatte sich die Mühe gemacht, die Folien eigenes für die leipzigjs
-noch mal anzupassen. Respekt!!!!111!!11 :P&lt;/p&gt;
-&lt;p&gt;Danach hat uns Martin Läuter über die Möglichkeiten des &amp;quot;Googles Closure Compilers&amp;quot;
-über die Minifizierung hinaus informiert. Die Folien zu seinem Vortrag findet
-ihr &lt;a href=&quot;http://www.laeuter.de/martin/jstalk/jstalk.html#1&quot;&gt;hier&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Wir danken beiden Vortragenden für die spannenden Einblicke.&lt;/p&gt;
-&lt;p&gt;Im August wird vorraussichtlich kein Treffen statt finden, da viele im Urlaub
-sind. Sollte sich doch jemand finden, der einen spannenden Talk halten will und
-nur im August kann, kontaktiert uns gern. Ansonsten findet das nächste Treffen
-Turnusgemäß am 04.09. statt. Dafür werden wie immer noch Talks gesucht.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>September Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2014/08/17/september-treffen/</link>
-      <pubDate>Wed, 27 Aug 2014 18:52:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/08/17/september-treffen/</guid>
-      <author></author>
-      <description>&lt;p&gt;Nachdem wir im August aufgrund von Urlaub und Ferien eine kleine Pause eingelegt
-haben, geht es im September wie gewohnt weiter mit der Javascript Usergroup in
-Leipzig.&lt;/p&gt;
-&lt;p&gt;Der erste Donnerstag im Monat fällt diesmal auf den &lt;strong&gt;4.9.&lt;/strong&gt;, Zeitpunkt wie
-immer &lt;strong&gt;20:00 Uhr&lt;/strong&gt;. Weitere Informationen zur Location findet ihr
-&lt;a href=&quot;http://leipzigjs.github.io/location/&quot;&gt;hier&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Bei den letzten Treffen hatten wir einige Devops-lastige Talks, diesmal werden
-wir wieder eher die Entwickler-Schiene ansprechen. &lt;a href=&quot;https://www.xing.com/profile/Stephan_Hoyer3&quot;&gt;Stephan
-Hoyer&lt;/a&gt; hat sich zum Thema
-&lt;a href=&quot;http://browserify.org/&quot;&gt;Browserify&lt;/a&gt; vorbereitet.&lt;/p&gt;
-&lt;p&gt;Viele node-Entwickler freuen sich tagtäglich über node&amp;#39;s
-einfaches Modulhandling auf Basis von CommonJS. Das ist nun seit einer Weile
-dank Browserify auch im Browser möglich und wird immer mehr genutzt. Der Talk
-wird einen kleinen Einstieg in CommonJS geben, um dann Browserify im Detail
-vorzustellen und seine Vor- und Nachteile zu beleuchten.&lt;/p&gt;
-&lt;p&gt;Danach haben wir noch Zeit für Q&amp;amp;A, sowie ggf. noch einen kurzen Lightening
-Talk. Bei Interesse einfach melden!&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf etwas kältere Räumlichkeiten als im Sommer und viele Gäste. Schaut vorbei!&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Oktober Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2014/09/27/oktober-treffen/</link>
-      <pubDate>Sat, 27 Sep 2014 18:38:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/09/27/oktober-treffen/</guid>
-      <author></author>
-      <description>&lt;p&gt;Nachdem uns &lt;a href=&quot;https://www.xing.com/profile/Stephan_Hoyer3&quot;&gt;Stephan Hoyer&lt;/a&gt; beim 
-den letzten Treffen zum Thema &lt;a href=&quot;http://browserify.org/&quot;&gt;Browserify&lt;/a&gt; informiert 
-hat wird uns diesmal &lt;a href=&quot;https://github.com/tenbits&quot;&gt;Alexander&lt;/a&gt; einen Vortrag zum Thema &lt;strong&gt;Isomorphic
-applications&lt;/strong&gt; halten. Er will seinen Focus dabei auf das von ihm und seinem
-Team entwickelte &lt;a href=&quot;https://github.com/atmajs/MaskJS&quot;&gt;MaskJS&lt;/a&gt; setzen. Dafür wird 
-ein einen &lt;a href=&quot;https://github.com/atmajs/task-scheduler&quot;&gt;Task-Scheduler&lt;/a&gt; als
-Beispielapplikation verwenden.&lt;/p&gt;
-&lt;p&gt;Danach haben wir wie immer noch Zeit für Q&amp;amp;A oder einen kurzen Spontantalk.&lt;/p&gt;
-&lt;p&gt;Der erste Donnerstag im Monat fällt diesmal auf den &lt;strong&gt;2.10.&lt;/strong&gt;, Zeitpunkt wie
-immer &lt;strong&gt;20:00 Uhr&lt;/strong&gt;. Weitere Informationen zur Location findet ihr
-&lt;a href=&quot;http://leipzigjs.github.io/location/&quot;&gt;hier&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf viele Gäste. Schaut vorbei!&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>November Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2014/11/03/november-treffen/</link>
-      <pubDate>Mon, 03 Nov 2014 10:42:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/11/03/november-treffen/</guid>
-      <author></author>
-      <description>&lt;p&gt;Angular.js ist seit einer ganzen Weile in aller Munde. Für unser Treffen im
-November hat sich &lt;a href=&quot;https://twitter.com/4lixi&quot;&gt;Andreas Krummsdorf&lt;/a&gt; mit folgendem
-Talk angemeldet:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Strukturierung einer Angular.js Business App&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Der aktuelle Trend bei Business Anwendungen ist die Verwendung einer Single Page
-Application. Dabei ist besonders das Framework Angular.js von Google populär. In
-diesem Talk wird ein Ansatz vorgestellt, wie man eine komplexe Angular.js
-Anwendung Modular aufbauen kann und wie man mehrere Apps in einem Projekt
-vereint. Dabei wird auch das Zusammenspiel mit dem serverseitigen node.js
-Framework baboon.js beleuchtet. Außerdem behandelt der Talk einige, zum Teil
-selbst entwickelte Tools, die das Entwickeln und Testen der Kombination aus
-Angular.js und node.js vereinfachen.&lt;/p&gt;
-&lt;p&gt;Danach haben wir wie immer noch Zeit für Q&amp;amp;A.&lt;/p&gt;
-&lt;p&gt;Der erste Donnerstag im Monat fällt diesmal auf den &lt;strong&gt;06.11.&lt;/strong&gt;, Zeitpunkt wie
-immer &lt;strong&gt;20:00 Uhr&lt;/strong&gt;. Weitere Informationen zur Location findet ihr
-&lt;a href=&quot;http://leipzigjs.github.io/location/&quot;&gt;hier&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf viele Gäste. Schaut vorbei und verbreitet die frohe Kunde :)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Review November Treffen</title>
-      <link>http://leipzigjs.github.io/artikel/2014/11/07/review-november-treffen/</link>
-      <pubDate>Fri, 07 Nov 2014 10:13:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/11/07/review-november-treffen/</guid>
-      <author></author>
-      <description>&lt;p&gt;Bei einem vollen Haus hat uns gestern Abend &lt;a href=&quot;https://twitter.com/4lixi&quot;&gt;Andreas
-Krummsdorf&lt;/a&gt; das &lt;a href=&quot;http://www.litixsoft.de/mms/&quot;&gt;Bamboo Management
-Studio&lt;/a&gt; vorgestellt. Zur Verwendung kam das von
-seinem Team entwickelte
-&lt;a href=&quot;https://github.com/litixsoft/baboon-frontend&quot;&gt;baboon-Framework&lt;/a&gt;, das widerum
-auf AngularJS basiert.&lt;/p&gt;
-&lt;p&gt;Bei wem Interesse am Framework entstanden ist oder nicht dabei sein konnte und
-einen genaueren Blick in den Aufbau werfen möchten, sollte sich folgende Links
-zu Gemüte führen:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/litixsoft/baboon-frontend&quot;&gt;https://github.com/litixsoft/baboon-frontend&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/litixsoft/baboon-backend&quot;&gt;https://github.com/litixsoft/baboon-backend&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.litixsoft.de/baboonstack/&quot;&gt;http://www.litixsoft.de/baboonstack/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/litixsoft/karma-detect-browsers&quot;&gt;https://github.com/litixsoft/karma-detect-browsers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/litixsoft/karma-mocha-reporter&quot;&gt;https://github.com/litixsoft/karma-mocha-reporter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Wir danken Andreas für die interessante Vorstellung!&lt;/p&gt;
-&lt;p&gt;Für das Dezember-Treffen haben wir noch einen Slot frei, wer also gerne einen
-Talk geben möchte, ist herzlich eingeladen.&lt;/p&gt;
-&lt;p&gt;Zu guter letzt möchten wir uns bei unserem Location-Sponsor
-&lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; bedanken und darauf hinweisen, dass aktuell ein
-hoher Bedarf nach engagierten PHP, Ruby und Javascript-Entwicklern besteht!&lt;/p&gt;
-&lt;p&gt;Bis zu nächsten Treffen!&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Letztes Treffen in 2014</title>
-      <link>http://leipzigjs.github.io/artikel/2014/11/25/dezember/</link>
-      <pubDate>Tue, 25 Nov 2014 17:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/11/25/dezember/</guid>
-      <author></author>
-      <description>&lt;p&gt;Im Dezember werden wir unser letztes Treffen im Jahr 2014 machen. Diesmal wird uns
-&lt;a href=&quot;https://github.com/der-On&quot;&gt;Ondej&lt;/a&gt; einen Talk über das
-Templating-data-binding-Projekt &lt;a href=&quot;http://rivetsjs.com/&quot;&gt;rivetsjs&lt;/a&gt; geben. Es
-ermöglicht – vergleichbar der HTML-Bindung von
-&lt;a href=&quot;https://angularjs.org/&quot;&gt;angularjs&lt;/a&gt; – eine deklarative Definition von
-dynamischen Inhalten. Rivets ist dabei nicht an ein Framework gebunden, kann
-also mit vielen anderen Lösungen kombiniert werden. Er demonstriert uns seine
-Integration in Backbone sowie Firefox OS.&lt;/p&gt;
-&lt;p&gt;Wir sind sehr gespannt auf seinen Vortrag und freuen uns über reichlich
-Teilnehmer.&lt;/p&gt;
-&lt;p&gt;Das Treffen wird nächste Woche &lt;strong&gt;Donnerstag, 04. Dezember&lt;/strong&gt; um &lt;strong&gt;20:00 Uhr&lt;/strong&gt; wie immer bei unserem Location-Sponsor
-&lt;a href=&quot;http://www.food.de/&quot;&gt;&lt;strong&gt;Food.de&lt;/strong&gt;&lt;/a&gt; stattfinden.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Es wird Zeit</title>
-      <link>http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</link>
-      <pubDate>Wed, 19 Sep 2012 20:01:00 +0200</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/09/19/es-wird-zeit/</guid>
-      <author></author>
-      <description>&lt;p&gt;... dass sich die JS-Elite Leipzigs regelmäßig trifft. Natürlich sind auch alle Anfänger und Interessierten herzlich willkommen.&lt;/p&gt;
-&lt;p&gt;Für das Gründungstreffen haben wir einen &lt;a href=&quot;http://www.doodle.com/h4gkgrpf5uvb6gt3#table&quot;&gt;Doodle&lt;/a&gt; angelegt. Bitte tragt ein, wann ihr im Oktober Zeit habt.&lt;/p&gt;
-&lt;p&gt;Wir freuen uns auf eine spannende Zeit mit euch.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>LeipzigJS 2.0 - Testing Javascript</title>
-      <link>http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</link>
-      <pubDate>Mon, 12 Nov 2012 15:34:00 +0100</pubDate>
-      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2012/11/12/leipzigjs-2.0--testing-javascript/</guid>
-      <author></author>
-      <description>&lt;p&gt;Nach dem sich ca. 10 Entwickler beim ersten Treffen im sublab eingefunden und angeregt diskutiert haben, wollen wir das ganze natürlich fortsetzen. Als regelmäßiger Termin ist jetzt immer der letzte Freitag jeden Monats für LeipzigJS reserviert.&lt;/p&gt;
-&lt;p&gt;Das zweite Treffen findet am &lt;strong&gt;30. November 2012&lt;/strong&gt; in der &lt;a href=&quot;http://www.villa-leipzig.de/&quot;&gt;Villa&lt;/a&gt; statt.&lt;/p&gt;
-&lt;p&gt;Wir wollen uns dem Thema &lt;strong&gt;Javascript testen&lt;/strong&gt; befassen. Dazu haben wir gleich zwei Vorträge geplant&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Node.js testen mit &lt;a href=&quot;http://visionmedia.github.com/mocha&quot;&gt;Mocha&lt;/a&gt; - &lt;a href=&quot;https://github.com/MarioBehrendt&quot;&gt;Mario Behrendt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Frontend testen mit &lt;a href=&quot;https://github.com/airportyh/testem&quot;&gt;Test&amp;#39;em&lt;/a&gt; - &lt;a href=&quot;https://github.com/StephanHoyer&quot;&gt;Stephan Hoyer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Wir freuen uns auf euer Kommen.&lt;/p&gt;
+&lt;p&gt;Danach möchten wir noch etwas Zeit nutzen, um eine Diskussion über das Thema
+&amp;quot;Async&amp;quot; anzuregen und verschiedene Optionen und Best-Practises besprechen.&lt;/p&gt;
+&lt;p&gt;Noch einmal alle Informationen zum Event gibt es kompakt auf der &lt;a href=&quot;http://lanyrd.com/ctqpd&quot;&gt;Lanyrd
+Seite&lt;/a&gt;. Wer es bisher noch nicht getan hat, sollte
+außerdem jetzt den &lt;a href=&quot;https://www.google.com/calendar/embed?src=heimke.net_m4mcqp0jn71tc8sid2aeij0d20@group.calendar.google.com&amp;amp;ctz=Europe/Berlin&quot;&gt;Google
+Kalender&lt;/a&gt;
+der Usergroup abonnieren, um die laufenen Events direkt im Kalender einsehen zu
+können.&lt;/p&gt;
+&lt;p&gt;Lightning talks sind wie immer gerne willkommen, einen Slot können wir auf jeden
+Fall noch anbieten, falls jemand gerne ein Thema vorstellen möchte!&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -843,6 +526,323 @@ profitieren können! Danke und bis zum 3.12.! :)&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>Review Januar-Treffen 2014</title>
+      <link>http://leipzigjs.github.io/artikel/2014/01/15/review-januar-treffen-2014/</link>
+      <pubDate>Wed, 15 Jan 2014 10:52:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/01/15/review-januar-treffen-2014/</guid>
+      <author></author>
+      <description>&lt;p&gt;Das erste Treffen im neuen Jahr war wieder gut besucht, vielen Dank erst einmal
+an alle Teilnehmer! Der erste Vortrag zum Thema &lt;a href=&quot;http://www.golang.org/&quot;&gt;Go&lt;/a&gt;
+wurde heiß diskutiert und auch beim zweiten Teil des Abends, zum Thema
+Generatoren in &lt;a href=&quot;http://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; gab es einiges an Diskussion.&lt;/p&gt;
+&lt;p&gt;Sowohl die &lt;a href=&quot;https://speakerdeck.com/behrendtio/einfuhrung-in-go&quot;&gt;Slides&lt;/a&gt; des
+ersten, als auch der &lt;a href=&quot;https://github.com/StephanHoyer/generators-talk&quot;&gt;Code&lt;/a&gt; des
+zweiten Vortrags sind online verfügbar, für alle bei denen Interesse geweckt
+wurde.&lt;/p&gt;
+&lt;p&gt;Das nächste Treffen wird voraussichtlich im Februar stattfinden, ein
+entsprechendes Doodle werden wir Ende Januar veröffentlichen. Wer gerne einen
+Vortrag halten will, kann sich wie immer bei uns melden, wir freuen uns über
+jeden Talk.&lt;/p&gt;
+&lt;p&gt;Bis zum nächsten mal!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Treffen Februar</title>
+      <link>http://leipzigjs.github.io/artikel/2014/02/07/treffen-februar/</link>
+      <pubDate>Fri, 07 Feb 2014 09:30:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/02/07/treffen-februar/</guid>
+      <author></author>
+      <description>&lt;p&gt;Auf zum zweiten Treffen in diesem Jahr am 27.02.2014 um 20 Uhr. Geplant sind dieses mal wieder zwei
+spannende Vorträge:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/model-io/model.io&quot;&gt;model.io&lt;/a&gt; - Client/Server-Model-Synchronisation mit
+&lt;a href=&quot;http://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; - Stephan Hoyer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/it-ony/jscop&quot;&gt;jscop&lt;/a&gt; - Statische Codeanalyse Tool für
+besseren Javascript-Code - Tony Findeisen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wie hoffen auf eine wiedermal rege Teilnahme.&lt;/p&gt;
+&lt;p&gt;Das Treffen wird wie immer bei unsersem großzügigem Location-Sponsor
+&lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; (&lt;a href=&quot;https://maps.google.com/maps?q=food.de+%2F%2F+food+direkt+GmbH&amp;amp;ie=UTF8&amp;amp;ll=51.346925,12.388909&amp;amp;spn=0.011674,0.009849&amp;amp;fb=1&amp;amp;hq=food.de+hans+poeche+stra%C3%9Fe+leipzig&amp;amp;cid=15222040660717068586&amp;amp;t=h&amp;amp;z=16&amp;amp;iwloc=A&quot;&gt;Maps Link&lt;/a&gt;) stattfinden.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf euch.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Treffen April</title>
+      <link>http://leipzigjs.github.io/artikel/2014/04/07/treffen-april/</link>
+      <pubDate>Mon, 07 Apr 2014 10:30:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/04/07/treffen-april/</guid>
+      <author></author>
+      <description>&lt;p&gt;Nach einem Monat ohne leipzigjs ist nun das dritte Treffen am 15.04.2014 um 20
+Uhr angesetzt.&lt;/p&gt;
+&lt;p&gt;Dieses mal haben wir keine Vorträge geplant. Wir wollen die Runde für
+Erfahrungsaustausch und besseres Kennenlernen nutzen.&lt;/p&gt;
+&lt;p&gt;Evtl. kommen wir ja auch einmal zum allseits beliebtem Editor-War. Wie immer hoffen wir auf eine rege Teilnahme.&lt;/p&gt;
+&lt;p&gt;Das Treffen wird abermals bei unsersem großzügigem Location-Sponsor
+&lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; (&lt;a href=&quot;https://maps.google.com/maps?q=food.de+%2F%2F+food+direkt+GmbH&amp;amp;ie=UTF8&amp;amp;ll=51.346925,12.388909&amp;amp;spn=0.011674,0.009849&amp;amp;fb=1&amp;amp;hq=food.de+hans+poeche+stra%C3%9Fe+leipzig&amp;amp;cid=15222040660717068586&amp;amp;t=h&amp;amp;z=16&amp;amp;iwloc=A&quot;&gt;Maps Link&lt;/a&gt;) stattfinden.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf euch.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Terminfindung Treffen April</title>
+      <link>http://leipzigjs.github.io/artikel/2014/03/26/terminfindung-treffen-april/</link>
+      <pubDate>Wed, 26 Mar 2014 16:30:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/03/26/terminfindung-treffen-april/</guid>
+      <author></author>
+      <description>&lt;p&gt;Leider haben wir es im März nicht geschafft ein Treffen zu veranstalten, doch ab
+April werden wir wieder in den monatlichen Rhythmus einsteigen.&lt;/p&gt;
+&lt;p&gt;Wie immer haben wir zur Terminfindung ein Doodle erstellt, damit möglichst viele
+Leute kommen können. Trage dich daher bitte
+&lt;a href=&quot;http://doodle.com/ekvrcmc2cfab4tth&quot;&gt;hier&lt;/a&gt; ein.&lt;/p&gt;
+&lt;p&gt;Wir haben bereits Vorschläge für Talks, aber noch keine Slots vergeben. Wer also
+gerne einen Vortrag halten will, kann sich gerne via Twitter oder auf der
+Mailingliste melden.&lt;/p&gt;
+&lt;p&gt;Happy coding!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Mai-Treffen mit Vorträgen aus Köln</title>
+      <link>http://leipzigjs.github.io/artikel/2014/05/02/mai-treffen-mit-vortraegen-aus-koeln/</link>
+      <pubDate>Fri, 02 May 2014 13:40:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/05/02/mai-treffen-mit-vortraegen-aus-koeln/</guid>
+      <author></author>
+      <description>&lt;p&gt;Nachdem wir beim letzten Treffen eine kleine Talk-Pause eingelegt und eine
+Diskussionsrunde veranstaltet haben, wird es beim Mai-Treffen wieder mehrere
+Vorträge geben. Diesmal freuen wir uns auf Speaker aus Köln, die extra anreisen,
+um uns ihre Talks zu präsentieren!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/bascht&quot;&gt;@bascht&lt;/a&gt; wird unser Wissen im Bereich DevOps
+verbessern, mit dem Thema &amp;quot;What is a »full« stack, anyways?&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mchacki&quot;&gt;@mchacki&lt;/a&gt;&amp;#39;s Talk geht dann wieder in die
+Entwickler-Richtung mit dem Thema &amp;quot;Rapid API Development&amp;quot;, bei dem er das
+serverseitige Javascript-Framework &lt;a href=&quot;https://www.arangodb.org/foxx&quot;&gt;Foxx&lt;/a&gt; vorstellen wird.&lt;/p&gt;
+&lt;p&gt;Da unsere Speaker anreisen, machen wir dieses Monat kein Doodle, sondern legen
+den Termin direkt fest: &lt;strong&gt;Donnerstag der 22.05.2014&lt;/strong&gt;, wie immer &lt;strong&gt;20 Uhr&lt;/strong&gt; bei den
+Jungs von &lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; in
+Leipzig. Für alle Neuankömmlinge: Der Eingang ist rechts neben dem von Lucky
+Bike und dann einmal die Treppen bis ganz hoch :)&lt;/p&gt;
+&lt;p&gt;Wir hoffen auf ein volles Haus!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Nächster Termin</title>
+      <link>http://leipzigjs.github.io/artikel/2014/05/27/naechster-termin/</link>
+      <pubDate>Tue, 27 May 2014 16:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/05/27/naechster-termin/</guid>
+      <author></author>
+      <description>&lt;p&gt;Wir werden nun doch nicht den letzten sondern den ersten Donnerstag im Monat wählen, da
+es ansonsten zu einer Überschneidung mit der PHP-Usergroup gibt. An der nehmen einige
+Leute teil, deren Kommen uns wichtig ist ;)&lt;/p&gt;
+&lt;p&gt;Nächstes Treffen ist dann also erst am 3.7. da nächste Woche etwas
+kurzfristig wäre.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Review Mai-Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2014/05/26/review-mai-treffen/</link>
+      <pubDate>Mon, 26 May 2014 11:30:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/05/26/review-mai-treffen/</guid>
+      <author></author>
+      <description>&lt;p&gt;Das Treffen am Donnerstag war wieder mal sehr gut besucht.
+Die Gäste aus Köln konnten sich über volles Haus und die Zuhörer
+über zwei hochkarätige und teils amüsante Vorträge freuen.&lt;/p&gt;
+&lt;p&gt;Da wäre zunächst &lt;a href=&quot;https://twitter.com/bascht&quot;&gt;@bascht&lt;/a&gt;s Vortrag
+&lt;a href=&quot;https://speakerdeck.com/bascht/what-is-a-full-stack-anyways&quot;&gt;&amp;quot;What is a »full« stack, anyways?&amp;quot;&lt;/a&gt;
+über DevOps und warum auch Infrastruktur Code ist.&lt;/p&gt;
+&lt;p&gt;Danach folgte &lt;a href=&quot;https://twitter.com/mchacki&quot;&gt;@mchacki&lt;/a&gt;s sehr informativer
+&lt;a href=&quot;http://de.slideshare.net/arangodb/foxx&quot;&gt;Vortrag&lt;/a&gt;
+über das auf &lt;a href=&quot;https://www.arangodb.org/&quot;&gt;arangodb&lt;/a&gt; aufsetzende REST-Framework
+&lt;a href=&quot;https://www.arangodb.org/foxx&quot;&gt;Foxx&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wir danken den Speakern fürs Vortragen und allen Anderen fürs kommen.&lt;/p&gt;
+&lt;p&gt;Wir haben uns nun dazu entschieden, einen festen Termin im Monat für die
+&lt;a href=&quot;http://leipzigjs.github.io/&quot;&gt;@leipzigjs&lt;/a&gt; zu setzen. Wir haben uns für den letzten (also 4ten und
+manchamal auch 5ten) Donnerstag im Monat entschieden.&lt;/p&gt;
+&lt;p&gt;Der nächste Termin findet also am Donnerstag den 26.06. statt. Es gibt einen
+&lt;a href=&quot;https://www.google.com/calendar/embed?src=heimke.net_m4mcqp0jn71tc8sid2aeij0d20@group.calendar.google.com&amp;amp;ctz=Europe/Berlin&quot;&gt;iCal&lt;/a&gt;,
+der den aktuellen Termin enthällt.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns aufs nächste Treffen, für das wir noch Vorträge suchen. Postet
+in die Kommentare oder twittert an &lt;a href=&quot;https://twitter.com/leipzigjs&quot;&gt;@leipzigjs&lt;/a&gt;,
+wenn ihr etwas vortragen wollt.&lt;/p&gt;
+&lt;h2 id=&quot;achtung-terminkorrektur&quot;&gt;Achtung - Terminkorrektur&lt;/h2&gt;
+&lt;p&gt;Wir werden nun doch nicht den letzten sondern den ersten Donnerstag im Monat wählen, da
+es ansonsten zu einer Überschneidung mit der PHP-Usergroup gibt. An der nehmen einige
+Leute teil, deren Kommen uns wichtig ist ;)&lt;/p&gt;
+&lt;p&gt;Nächstes Treffen ist dann also erst am 3.7. da nächste Woche etwas
+kurzfristig wäre.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Review Juli-Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2014/07/26/review-juli-treffen/</link>
+      <pubDate>Wed, 09 Jul 2014 14:30:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/07/26/review-juli-treffen/</guid>
+      <author></author>
+      <description>&lt;p&gt;Der erste Talk des Treffens am 03.07 schloss perfekt an den Talk von
+&lt;a href=&quot;https://twitter.com/bascht&quot;&gt;@bascht&lt;/a&gt; aus dem letzten Treffen an.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.keimlink.de/&quot;&gt;Markus Zapke-Gründemann&lt;/a&gt; hielt einen Vortrag
+über virtuelle Maschinen mit &lt;a href=&quot;http://www.packer.io/&quot;&gt;Packer&lt;/a&gt;,
+&lt;a href=&quot;http://www.vagrantup.com/&quot;&gt;Vagrant&lt;/a&gt; und
+&lt;a href=&quot;http://www.saltstack.com/community/&quot;&gt;Salt&lt;/a&gt; für Entwickler. &lt;/p&gt;
+&lt;p&gt;Das entsprechende Repo zum selbst ausprobieren findet ihr
+&lt;a href=&quot;https://bitbucket.org/keimlink/pvs-example&quot;&gt;hier&lt;/a&gt;. Die Folien eines
+equivalenten Vortrags sind auf
+&lt;a href=&quot;https://speakerdeck.com/keimlink/virtuelle-maschinen-mit-packer-vagrant-und-salt-bauen&quot;&gt;speakerdeck&lt;/a&gt;
+verfügbar.&lt;/p&gt;
+&lt;p&gt;Anm. d. R.: Er hatte sich die Mühe gemacht, die Folien eigenes für die leipzigjs
+noch mal anzupassen. Respekt!!!!111!!11 :P&lt;/p&gt;
+&lt;p&gt;Danach hat uns Martin Läuter über die Möglichkeiten des &amp;quot;Googles Closure Compilers&amp;quot;
+über die Minifizierung hinaus informiert. Die Folien zu seinem Vortrag findet
+ihr &lt;a href=&quot;http://www.laeuter.de/martin/jstalk/jstalk.html#1&quot;&gt;hier&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wir danken beiden Vortragenden für die spannenden Einblicke.&lt;/p&gt;
+&lt;p&gt;Im August wird vorraussichtlich kein Treffen statt finden, da viele im Urlaub
+sind. Sollte sich doch jemand finden, der einen spannenden Talk halten will und
+nur im August kann, kontaktiert uns gern. Ansonsten findet das nächste Treffen
+Turnusgemäß am 04.09. statt. Dafür werden wie immer noch Talks gesucht.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>September Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2014/08/17/september-treffen/</link>
+      <pubDate>Wed, 27 Aug 2014 18:52:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/08/17/september-treffen/</guid>
+      <author></author>
+      <description>&lt;p&gt;Nachdem wir im August aufgrund von Urlaub und Ferien eine kleine Pause eingelegt
+haben, geht es im September wie gewohnt weiter mit der Javascript Usergroup in
+Leipzig.&lt;/p&gt;
+&lt;p&gt;Der erste Donnerstag im Monat fällt diesmal auf den &lt;strong&gt;4.9.&lt;/strong&gt;, Zeitpunkt wie
+immer &lt;strong&gt;20:00 Uhr&lt;/strong&gt;. Weitere Informationen zur Location findet ihr
+&lt;a href=&quot;http://leipzigjs.github.io/location/&quot;&gt;hier&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Bei den letzten Treffen hatten wir einige Devops-lastige Talks, diesmal werden
+wir wieder eher die Entwickler-Schiene ansprechen. &lt;a href=&quot;https://www.xing.com/profile/Stephan_Hoyer3&quot;&gt;Stephan
+Hoyer&lt;/a&gt; hat sich zum Thema
+&lt;a href=&quot;http://browserify.org/&quot;&gt;Browserify&lt;/a&gt; vorbereitet.&lt;/p&gt;
+&lt;p&gt;Viele node-Entwickler freuen sich tagtäglich über node&amp;#39;s
+einfaches Modulhandling auf Basis von CommonJS. Das ist nun seit einer Weile
+dank Browserify auch im Browser möglich und wird immer mehr genutzt. Der Talk
+wird einen kleinen Einstieg in CommonJS geben, um dann Browserify im Detail
+vorzustellen und seine Vor- und Nachteile zu beleuchten.&lt;/p&gt;
+&lt;p&gt;Danach haben wir noch Zeit für Q&amp;amp;A, sowie ggf. noch einen kurzen Lightening
+Talk. Bei Interesse einfach melden!&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf etwas kältere Räumlichkeiten als im Sommer und viele Gäste. Schaut vorbei!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Juli Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2014/06/13/juli-treffen/</link>
+      <pubDate>Fri, 13 Jun 2014 13:15:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/06/13/juli-treffen/</guid>
+      <author></author>
+      <description>&lt;p&gt;Unser Juli-Treffen steht an - diesmal mit einem festen Datum, dem &lt;strong&gt;3.7.2014&lt;/strong&gt;,
+wie immer &lt;strong&gt;20:00 Uhr&lt;/strong&gt; in der &lt;strong&gt;Hans-Poeche-Straße 23-25&lt;/strong&gt; in Leipzig. Wie bereits im Blog zu
+lesen, werden die Usergroups ab jetzt immer am ersten Donnerstag im Monat
+stattfinden.&lt;/p&gt;
+&lt;p&gt;Wie beim letzten Mal möchten wir auch im Juli wieder zwei Vorträge präsentieren,
+die sich sowohl mit Javascript-Themen, als auch DevOps-nahen Sachen beschäftigen.&lt;/p&gt;
+&lt;p&gt;Zum einen wird &lt;a href=&quot;http://www.keimlink.de/&quot;&gt;Markus Zapke-Gründemann&lt;/a&gt; einen Vortrag
+über virtuelle Maschinen mit &lt;a href=&quot;http://www.packer.io/&quot;&gt;Packer&lt;/a&gt;,
+&lt;a href=&quot;http://www.vagrantup.com/&quot;&gt;Vagrant&lt;/a&gt; und
+&lt;a href=&quot;http://www.saltstack.com/community/&quot;&gt;Salt&lt;/a&gt; für Entwickler halten.&lt;/p&gt;
+&lt;p&gt;Außerdem wird Martin Läuter einen Talk zum Thema &amp;quot;Googles Closure Compiler –
+Anwendungsszenarien, Ökosystem, Features&amp;quot; geben.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns wie immer auf viele Gäste und vielleicht erträglichere
+Temperaturen als beim letzten mal!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Oktober Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2014/09/27/oktober-treffen/</link>
+      <pubDate>Sat, 27 Sep 2014 18:38:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/09/27/oktober-treffen/</guid>
+      <author></author>
+      <description>&lt;p&gt;Nachdem uns &lt;a href=&quot;https://www.xing.com/profile/Stephan_Hoyer3&quot;&gt;Stephan Hoyer&lt;/a&gt; beim 
+den letzten Treffen zum Thema &lt;a href=&quot;http://browserify.org/&quot;&gt;Browserify&lt;/a&gt; informiert 
+hat wird uns diesmal &lt;a href=&quot;https://github.com/tenbits&quot;&gt;Alexander&lt;/a&gt; einen Vortrag zum Thema &lt;strong&gt;Isomorphic
+applications&lt;/strong&gt; halten. Er will seinen Focus dabei auf das von ihm und seinem
+Team entwickelte &lt;a href=&quot;https://github.com/atmajs/MaskJS&quot;&gt;MaskJS&lt;/a&gt; setzen. Dafür wird 
+ein einen &lt;a href=&quot;https://github.com/atmajs/task-scheduler&quot;&gt;Task-Scheduler&lt;/a&gt; als
+Beispielapplikation verwenden.&lt;/p&gt;
+&lt;p&gt;Danach haben wir wie immer noch Zeit für Q&amp;amp;A oder einen kurzen Spontantalk.&lt;/p&gt;
+&lt;p&gt;Der erste Donnerstag im Monat fällt diesmal auf den &lt;strong&gt;2.10.&lt;/strong&gt;, Zeitpunkt wie
+immer &lt;strong&gt;20:00 Uhr&lt;/strong&gt;. Weitere Informationen zur Location findet ihr
+&lt;a href=&quot;http://leipzigjs.github.io/location/&quot;&gt;hier&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf viele Gäste. Schaut vorbei!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>November Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2014/11/03/november-treffen/</link>
+      <pubDate>Mon, 03 Nov 2014 10:42:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/11/03/november-treffen/</guid>
+      <author></author>
+      <description>&lt;p&gt;Angular.js ist seit einer ganzen Weile in aller Munde. Für unser Treffen im
+November hat sich &lt;a href=&quot;https://twitter.com/4lixi&quot;&gt;Andreas Krummsdorf&lt;/a&gt; mit folgendem
+Talk angemeldet:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Strukturierung einer Angular.js Business App&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Der aktuelle Trend bei Business Anwendungen ist die Verwendung einer Single Page
+Application. Dabei ist besonders das Framework Angular.js von Google populär. In
+diesem Talk wird ein Ansatz vorgestellt, wie man eine komplexe Angular.js
+Anwendung Modular aufbauen kann und wie man mehrere Apps in einem Projekt
+vereint. Dabei wird auch das Zusammenspiel mit dem serverseitigen node.js
+Framework baboon.js beleuchtet. Außerdem behandelt der Talk einige, zum Teil
+selbst entwickelte Tools, die das Entwickeln und Testen der Kombination aus
+Angular.js und node.js vereinfachen.&lt;/p&gt;
+&lt;p&gt;Danach haben wir wie immer noch Zeit für Q&amp;amp;A.&lt;/p&gt;
+&lt;p&gt;Der erste Donnerstag im Monat fällt diesmal auf den &lt;strong&gt;06.11.&lt;/strong&gt;, Zeitpunkt wie
+immer &lt;strong&gt;20:00 Uhr&lt;/strong&gt;. Weitere Informationen zur Location findet ihr
+&lt;a href=&quot;http://leipzigjs.github.io/location/&quot;&gt;hier&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf viele Gäste. Schaut vorbei und verbreitet die frohe Kunde :)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Letztes Treffen in 2014</title>
+      <link>http://leipzigjs.github.io/artikel/2014/11/25/dezember/</link>
+      <pubDate>Tue, 25 Nov 2014 17:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/11/25/dezember/</guid>
+      <author></author>
+      <description>&lt;p&gt;Im Dezember werden wir unser letztes Treffen im Jahr 2014 machen. Diesmal wird uns
+&lt;a href=&quot;https://github.com/der-On&quot;&gt;Ondej&lt;/a&gt; einen Talk über das
+Templating-data-binding-Projekt &lt;a href=&quot;http://rivetsjs.com/&quot;&gt;rivetsjs&lt;/a&gt; geben. Es
+ermöglicht – vergleichbar der HTML-Bindung von
+&lt;a href=&quot;https://angularjs.org/&quot;&gt;angularjs&lt;/a&gt; – eine deklarative Definition von
+dynamischen Inhalten. Rivets ist dabei nicht an ein Framework gebunden, kann
+also mit vielen anderen Lösungen kombiniert werden. Er demonstriert uns seine
+Integration in Backbone sowie Firefox OS.&lt;/p&gt;
+&lt;p&gt;Wir sind sehr gespannt auf seinen Vortrag und freuen uns über reichlich
+Teilnehmer.&lt;/p&gt;
+&lt;p&gt;Das Treffen wird nächste Woche &lt;strong&gt;Donnerstag, 04. Dezember&lt;/strong&gt; um &lt;strong&gt;20:00 Uhr&lt;/strong&gt; wie immer bei unserem Location-Sponsor
+&lt;a href=&quot;http://www.food.de/&quot;&gt;&lt;strong&gt;Food.de&lt;/strong&gt;&lt;/a&gt; stattfinden.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Review November Treffen</title>
+      <link>http://leipzigjs.github.io/artikel/2014/11/07/review-november-treffen/</link>
+      <pubDate>Fri, 07 Nov 2014 10:13:00 +0100</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2014/11/07/review-november-treffen/</guid>
+      <author></author>
+      <description>&lt;p&gt;Bei einem vollen Haus hat uns gestern Abend &lt;a href=&quot;https://twitter.com/4lixi&quot;&gt;Andreas
+Krummsdorf&lt;/a&gt; das &lt;a href=&quot;http://www.litixsoft.de/mms/&quot;&gt;Bamboo Management
+Studio&lt;/a&gt; vorgestellt. Zur Verwendung kam das von
+seinem Team entwickelte
+&lt;a href=&quot;https://github.com/litixsoft/baboon-frontend&quot;&gt;baboon-Framework&lt;/a&gt;, das widerum
+auf AngularJS basiert.&lt;/p&gt;
+&lt;p&gt;Bei wem Interesse am Framework entstanden ist oder nicht dabei sein konnte und
+einen genaueren Blick in den Aufbau werfen möchten, sollte sich folgende Links
+zu Gemüte führen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/litixsoft/baboon-frontend&quot;&gt;https://github.com/litixsoft/baboon-frontend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/litixsoft/baboon-backend&quot;&gt;https://github.com/litixsoft/baboon-backend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.litixsoft.de/baboonstack/&quot;&gt;http://www.litixsoft.de/baboonstack/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/litixsoft/karma-detect-browsers&quot;&gt;https://github.com/litixsoft/karma-detect-browsers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/litixsoft/karma-mocha-reporter&quot;&gt;https://github.com/litixsoft/karma-mocha-reporter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wir danken Andreas für die interessante Vorstellung!&lt;/p&gt;
+&lt;p&gt;Für das Dezember-Treffen haben wir noch einen Slot frei, wer also gerne einen
+Talk geben möchte, ist herzlich eingeladen.&lt;/p&gt;
+&lt;p&gt;Zu guter letzt möchten wir uns bei unserem Location-Sponsor
+&lt;a href=&quot;http://www.food.de/&quot;&gt;Food.de&lt;/a&gt; bedanken und darauf hinweisen, dass aktuell ein
+hoher Bedarf nach engagierten PHP, Ruby und Javascript-Entwicklern besteht!&lt;/p&gt;
+&lt;p&gt;Bis zu nächsten Treffen!&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Metalsmith - Static-Site-Generator</title>
       <link>http://leipzigjs.github.io/artikel/2016/01/31/metalsmith-static-site-generator/</link>
       <pubDate>Sun, 31 Jan 2016 17:25:00 +0100</pubDate>
@@ -852,6 +852,20 @@ profitieren können! Danke und bis zum 3.12.! :)&lt;/p&gt;
 &lt;p&gt;Ondrej wird uns dabei das Thema Static-Site-Generators anhand von &lt;a href=&quot;http://www.metalsmith.io/&quot;&gt;metalsmith&lt;/a&gt; vorstellen.&lt;/p&gt;
 &lt;p&gt;Static-Site-Generators sind derzeit ein heißes Thema und ersetzen mehr und mehr klassische CMS.
 Man darf also nach dem kurzen Talk auf eine interessante Diskussion gespannt sein.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Usergroup April</title>
+      <link>http://leipzigjs.github.io/artikel/2016/04/05/usergroup-april/</link>
+      <pubDate>Tue, 05 Apr 2016 13:25:00 +0200</pubDate>
+      <guid isPermaLink="true">http://leipzigjs.github.io/artikel/2016/04/05/usergroup-april/</guid>
+      <author></author>
+      <description>&lt;p&gt;In diesem Monat ist eine klassische Usergroup mit Lightning Talks und Gesprächen
+zu den aktuellen Entwicklungen in der JavaScript-Szene nach Stammtisch-Manier
+geplant.&lt;/p&gt;
+&lt;p&gt;Wer Interesse an einem regen Austausch hat, kommt am besten am &lt;strong&gt;07.04.2016 um 20:00 Uhr&lt;/strong&gt; ins &lt;a href=&quot;http://leipzigjs.github.io/location/&quot;&gt;Social Impact Lab&lt;/a&gt; nach Plagwitz.&lt;/p&gt;
+&lt;p&gt;Um die Gemüter schon ein wenig anzuheizen, hier einige Buzzwords: React, Ember.js,
+Server Side Rendering und Mithril.js :)&lt;/p&gt;
 </description>
     </item>
   </channel>
